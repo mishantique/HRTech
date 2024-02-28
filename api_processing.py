@@ -49,15 +49,30 @@ def process_data(input_file, output_file):
 
         for resume_type in ['confirmed_resumes', 'failed_resumes']:
             for resume in item.get(resume_type, []):
-                resume_uuid = resume['uuid']  # Извлекаем uuid резюме
+                resume_uuid = resume['uuid']
 
-                # Извлекаем и обрабатываем ключевую информацию для каждого резюме
-                key_info = extract_key_info(' '.join([
+                # Убедитесь, что key_skills и educationItem являются списками, иначе замените их на пустой список
+                key_skills = resume.get('key_skills') or []
+                education_items = resume.get('educationItem') or []
+
+                # Обработка educationItem для получения строк
+                education_info = ', '.join([str(education.get('specialty', '') + ' at ' + education.get('organization', ''))
+                                            for education in education_items if education.get('specialty') is not None])
+
+                # Обработка experienceItem для получения строк
+                experience_info = '. '.join([exp['description'] for exp in resume.get('experienceItem', [])
+                                            if exp.get('description') is not None])
+
+                # Собираем все части в одну строку описания
+                description = ' '.join([
                     str(resume.get('about', '')),
-                    ', '.join(map(str, resume.get('key_skills', []))),
-                    ', '.join(map(str, resume.get('educationItem', []))),
-                    '. '.join([str(exp['description']) for exp in resume.get('experienceItem', []) if exp['description'] is not None])
-                ]))
+                    ', '.join(map(str, key_skills)),
+                    education_info,
+                    experience_info
+                ])
+
+                # Извлекаем ключевую информацию с помощью функции extract_key_info
+                key_info = extract_key_info(description)
 
                 # Добавляем информацию в список для соответствующего типа резюме
                 processed_item[resume_type].append({
@@ -72,7 +87,7 @@ def process_data(input_file, output_file):
         json.dump(new_data, file, ensure_ascii=False, indent=4)
 
 # Пути к входному и выходному файлам
-input_file = 'JSON/testing_api.json'  # Убедитесь, что путь правильный
+input_file = 'JSON/train.json'  
 output_file = 'JSON/processed_data.json'
 
 # Запускаем обработку

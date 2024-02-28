@@ -38,21 +38,32 @@ def process_data(input_file, output_file):
     with open(input_file, 'r', encoding='utf-8') as file:
         data = json.load(file)
 
-    new_data = []  # Этот список будет содержать только key_info для каждого резюме
+    new_data = []  # Этот список будет содержать только uuid и key_info для каждого резюме
     for item in data:
-        processed_item = {}  # Создаем новый словарь для каждой вакансии
+        vacancy_uuid = item['vacancy']['uuid']  # Извлекаем uuid вакансии
+        processed_item = {
+            'vacancy_uuid': vacancy_uuid,
+            'confirmed_resumes': [],
+            'failed_resumes': []
+        }  # Создаем новый словарь для каждой вакансии
 
         for resume_type in ['confirmed_resumes', 'failed_resumes']:
-            processed_item[resume_type] = []  # Инициализируем список для резюме данного типа
-
             for resume in item.get(resume_type, []):
+                resume_uuid = resume['uuid']  # Извлекаем uuid резюме
+
                 # Извлекаем и обрабатываем ключевую информацию для каждого резюме
                 key_info = extract_key_info(' '.join([
                     str(resume.get('about', '')),
                     ', '.join(map(str, resume.get('key_skills', []))),
+                    ', '.join(map(str, resume.get('educationItem', []))),
                     '. '.join([str(exp['description']) for exp in resume.get('experienceItem', []) if exp['description'] is not None])
                 ]))
-                processed_item[resume_type].append({'key_info': key_info})  # Сохраняем только key_info
+
+                # Добавляем информацию в список для соответствующего типа резюме
+                processed_item[resume_type].append({
+                    'resume_uuid': resume_uuid,
+                    'key_info': key_info
+                })
 
         new_data.append(processed_item)  # Добавляем обработанные данные по вакансии в общий список
 

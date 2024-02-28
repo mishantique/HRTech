@@ -16,6 +16,11 @@ client = OpenAI(
 )
 
 def extract_key_info(description):
+    
+    '''Функция принимает на вход информацию,
+    которая содержится в каждой из записей в JSON.
+    Возвращает содержимое сгенерированного ответа в виде строки.'''
+    
     # Используем Proxy API для извлечения ключевой информации из описания
     response = client.chat.completions.create(
         model="gpt-3.5-turbo", 
@@ -35,6 +40,13 @@ def extract_key_info(description):
     return response.choices[0].message.content.strip()
 
 def process_data(input_file, output_file):
+    
+    '''Функция для выделения ключевой информации из JSON.
+    Принимает на вход путь к директории с JSON-файлом 
+    с неструктурированными данным. Возвращает JSON с ключевой информацией
+    в виде структурированного текста.'''
+    
+    
     with open(input_file, 'r', encoding='utf-8') as file:
         data = json.load(file)
 
@@ -86,9 +98,10 @@ def process_data(input_file, output_file):
     with open(output_file, 'w', encoding='utf-8') as file:
         json.dump(new_data, file, ensure_ascii=False, indent=4)
 
-# Пути к входному и выходному файлам
+# Пути к входному и выходному файлам (Резюме)
 input_file = 'JSON/train.json'  
 output_file = 'JSON/processed_data.json'
 
-# Запускаем обработку
+# Запускаем обработку для резюме
 process_data(input_file, output_file)
+

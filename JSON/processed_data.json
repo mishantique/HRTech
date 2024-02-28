@@ -1,0 +1,20 @@
+[
+    {
+        "confirmed_resumes": [
+            {
+                "key_info": "Технологический стек: Java 11, Spring Boot, Hibernate, Spring Data, Spring Security, Maven, Camunda, Postgres, Liquibase, Kafka, jUnit, Mockito, Swagger, Bitbucket.\n\nКоммерческий опыт: Работал над внутренним продуктом и проектами по управлению складскими помещениями, интеграции call-центра с системой телефонии, хранению и передаче данных в межведомственные системы электронного взаимодействия.\n\nОбразование: Не указано.\n\nВозраст: Не указан.\n\nУровень: Не указан.\n\nПредпочтения по формату работы: Не указаны.\n\nЗарплата: Не указана.\n\nЛичные качества: Опытный разработчик, способен на работу как в команде, так и над самостоятельными проектами, аккуратность в написании кода, ответственность за результат работы."
+            },
+            {
+                "key_info": "Технологический стек: Java, Android SDK, Eclipse, C/C++, Git, Atlassian Jira, IntelliJ IDEA, NetBeans, OpenCV, PostgreSQL, Spring Framework.\n\nКоммерческий опыт: Разработка и тестирование REST-контроллеров, бизнес- и репозиториевских сервисов. Разработка внешних интеграций (например, с flocktory). Анализ легаси кода с расширением логики. Работа над разработкой программного обеспечения для системы управления автомобилями ERA-GLONASS.\n\nОбразование:   Сертификаты: \"MATLAB Fundamentals for Automotive Application\", \"System Modeling of Event-Driven Logic in State Flow\", \"Simulink for Automotive System Design\", \"Team Development and Verification in Simulink\".\n\nВозраст: NaN\n\nGrade: NaN\n\nПредпочтение формата работы: NaN\n\nЗарплата: Не указана\n\nЛичные качества: Аналитические навыки, аккуратность, умение работать в команде."
+            },
+            {
+                "key_info": "1. Технологический стек: JavaScript, TypeScript; Nuxt 3 (ssr); Vue3 (Pinia); Vite/Vitest; Tailwind; Node.js; StoryBook; Gitlab/Jira; fetch api/ofetch/rest api.\n2. Имею опыт разработки портала БРЭ и его администрирующего портала, участвовал в разработке компонентов и модулей, рефакторил проекты на Vue3 + TypeScript, работал с agile-scrum методологией.\n3. Нахожусь и живу в Москве, релокацию не планирую, имею только преписное образование.\n4. Более 5 лет опыта работы с Vue.js и более 7 лет с JavaScript.\n5. Планирую развиваться как ведущий Frontend-разработчик.\n6. Рассматриваю ТОЛЬКО удаленный формат работы.\n7. Личные качества: умение трезво оценивать силы и задачи, ответственность, проведение собеседований, хорошо ставлю и ресерчу задачи, владение английским языком на уровне B2, занимаюсь спортом и путешествиями в свободное время.\n\n(Зарплата и grade не указаны в тексте, поэтому они не были включены в структурированный ответ)."
+            }
+        ],
+        "failed_resumes": [
+            {
+                "key_info": "- Технологический стек: Java, Docker, SQL, Hibernate, Java Spring Framework, Apache Maven, REST, Redis, OpenShift, Camunda, PostgreSQL, Apache Kafka, Minio, RabbitMQ, Cassandra, Oracle, GIT, Jenkins, Artifactory, JUnit, Mockito, WebFlux, Jackson, Apache Camel, ANTLR, FlyWay, Quarkus, Swagger, Guava, Retrofit, JSF, XSLT, JPA, JavaMail, JAX-RS, JavaScript, КриптоПро., Logstash, ElasticSearch, Grafana, Kibana.\n- Коммерческий опыт: Участие в разработке интеграционных решений для различных компаний, участие в MVP проектах для Газпром-нефть, разработка проекта для учета ресурсов оператора связи Viva-telecom.\n- Образование: NaN\n- Возраст: NaN\n- Grade: NaN\n- Предпочтения по работе: Была отменена возможность удаленной работы, что не устраивало кандидата.\n- Зарплата: NaN\n- Личные качества: Участие в обсуждении архитектурных решений, проведение code-review, обучение сотрудников, менторство, администрирование серверов."
+            }
+        ]
+    }
+]

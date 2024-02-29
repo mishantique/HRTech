@@ -23,38 +23,37 @@ def compute_similarity(embeddings1, embeddings2):
     return similarity_scores.tolist()  
 
 def match_resumes_to_vacancies(input_file, output_file):
-    
     with open(input_file, 'r', encoding='utf-8') as file:
             data = json.load(file)
         
     results = []
     
-    for item in data:
-        vacancy_uuid = item['vacancy_uuid']
-        confirmed_resumes = item['confirmed_resumes']
+    # Исправленное извлечение данных о вакансии
+    vacancy_uuid = data['vacancy']['uuid']
+    vacancy_text = data['vacancy'].get('extracted_info', '')  # Исправленное получение текста вакансии
+    vacancy_embedding = get_embedding(vacancy_text)
+    
+    confirmed_resumes = data['resumes']  # Исправленное получение списка резюме
+    
+    for resume in confirmed_resumes:
+        resume_text = resume['key_info']
+        resume_embedding = get_embedding(resume_text)
         
-        vacancy_text = item.get('vacancy_text', '')  # assuming vacancy_text might be present
-        vacancy_embedding = get_embedding(vacancy_text)
+        similarity = compute_similarity(vacancy_embedding, resume_embedding)
         
-        for resume in confirmed_resumes:
-            resume_text = resume['key_info']
-            resume_embedding = get_embedding(resume_text)
-            
-            similarity = compute_similarity(vacancy_embedding, resume_embedding)
-            
-            # Generate unique ID for each pair of vacancy-resume
-            unique_id = str(uuid.uuid4())
-            
-            # Store the result
-            result = {"uuid": unique_id, "vacancy_uuid": vacancy_uuid, "resume_uuid": resume['resume_uuid'], "similarity": similarity}
-            results.append(result)
+        # Generate unique ID for each pair of vacancy-resume
+        unique_id = str(uuid.uuid4())
+        
+        # Store the result
+        result = {"uuid": unique_id, "vacancy_uuid": vacancy_uuid, "resume_uuid": resume['uuid'], "similarity": similarity}
+        results.append(result)
     
     # Write results to output file
     with open(output_file, 'w', encoding='utf-8') as out_file:
         json.dump(results, out_file)
 
 # Путь к файлу с данными
-input_file = 'text_processing/resumes_normalized.json'
+input_file = 'text_processing/test_resumes_normalized.json'
 output_file = 'text_processing/similaritites.json'
 
 # Сопоставление резюме с вакансиями

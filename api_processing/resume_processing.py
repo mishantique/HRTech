@@ -24,15 +24,12 @@ def extract_key_info(description):
     # Используем Proxy API для извлечения ключевой информации из описания
     response = client.chat.completions.create(
         model="gpt-3.5-turbo", 
-        messages=[{"role": "user", "content": f'''Извлеки основную информацию из: {description} 
+        messages=[{"role": "user", "content": f'''Извлеки информацию из: {description} 
                    и структурируй ответ таким образом:
                    "Предложение, содержащее информацию о технологическом стеке.
                    Предложение с информацией о наличии коммерческого опыта.
                    Предложение с информацией об образовании.
-                   Предложение с возрастом.
                    Предложение с grade (сеньор/ миддл/ ..)
-                   Предложение с предпочтениями удаленный формат работы/ офис.
-                   Предложение с зарплатой.
                    Предложение с личными качествами.
                    Если что-то отсутствует, пиши в предложении NaN'''}]
     )
@@ -63,12 +60,11 @@ def process_data(input_file, output_file):
             for resume in item.get(resume_type, []):
                 resume_uuid = resume['uuid']
 
-                # Убедитесь, что key_skills и educationItem являются списками, иначе замените их на пустой список
                 key_skills = resume.get('key_skills') or []
                 education_items = resume.get('educationItem') or []
 
                 # Обработка educationItem для получения строк
-                education_info = ', '.join([str(education.get('specialty', '') + ' at ' + education.get('organization', ''))
+                education_info = ', '.join([str(education.get('specialty', ''))
                                             for education in education_items if education.get('specialty') is not None])
 
                 # Обработка experienceItem для получения строк
@@ -99,8 +95,8 @@ def process_data(input_file, output_file):
         json.dump(new_data, file, ensure_ascii=False, indent=4)
 
 # Пути к входному и выходному файлам (Резюме)
-input_file = 'JSON/train.json'  
-output_file = 'JSON/processed_data.json'
+input_file = 'JSON/compression/test_compressed.json'  
+output_file = 'JSON/resumes/resumes_processed(train).json'
 
 # Запускаем обработку для резюме
 process_data(input_file, output_file)

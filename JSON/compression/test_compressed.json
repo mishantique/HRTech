@@ -1,0 +1,1634 @@
+{
+    "vacancy": {
+        "uuid": "",
+        "name": "",
+        "keywords": "",
+        "description": "",
+        "comment": ""
+    },
+    "resumes": [
+        {
+            "uuid": "0dfe8e63-d7a3-3fe4-b9d7-1b8122158f33",
+            "about": "Личные качества: ответственность, лидерство, гибкость, коммуникабельность, уравновешенность, решительность, находчивость, оптимизм, стратегическое мышление, способность к самостоятельному принятию решений. Дополнительные сведения Семейное положение: женат. Дети: есть. Личный автомобиль: есть. Возможность командировок: есть. Водительское удостоверение: есть.",
+            "key_skills": "Java Core, Spring Framework, Hibernate ORM, PostgreSQL, Oracle Pl/SQL, Kotlin",
+            "experienceItem": {
+                "position": "Автотестировщик",
+                "description": "Написание автотестов на java"
+            },
+            "educationItem": {
+                "faculty": "Инэи",
+                "specialty": "Бизнес-информатика",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "f8b69e24-e2c0-3186-9578-380835eb2ee7",
+            "about": " Обязанности: в составе группы поддержки я отвечал за исправление ошибок и поддержку качества кода. Реализован скрипт для простого процесса развертывания. Реализован скрипт, обеспечивающий более эффективный анализ логов. Тех. стек: Java/Java2EE, Web Sphere, XML, SOAP, Restful Web Services, Junit, Subversion, Oracle DB, PostgreSQL, UML, SIP, Wireshark BUUC/M cent ( : запуск внутри компании MERA для разработки Feature Server на основе сервлетов M cent/SIP, которые расширяют функциональность сервера AS5300. Обязанности: Я исследовал возможность интеграции сервера AS5300 с технологией SIP-сервлетов. Разработано с нуля демонстрационное приложение для маршрутизации SIP-звонков. Тех. стек: Java, Spring, Hibernate, M cent, SIP, сервлеты SIP, XML, SOAP, Junit, Subversion, Oracle DB, MySQL ",
+            "key_skills": "Java 8-17, Java SE, Java EE, Spring Framework (Boot, Security, Data, Cashe, Web, Cloud), Apache Maven, Apache Tomcat, Apache Kafka, RabbitMQ, Docker, Kubernetes, Openshift, MySQL, SQL, Postgres, Oracle, Hibernate, Liquibase, Elasticsearch, intelliJ IDEA, Lombok, MapStruct, JUnit, Mockito, TestNG, Jenkins, TeamCity, Flyway, Amazon EC2, Amazon RDS, Amazon S3, Servets, ClearCase, Subversion, YouTrack, Jira, Confluence ",
+            "experienceItem": {
+                "position": "Senior Java developer",
+                "description": " Служба авторизации и лицензирования Wiley: Wiley — это международная научно-техническая, медицинская и научная издательская компания John Wiley & Sons, имеющая сильные стороны во всех основных академических и профессиональных областях и партнерские отношения со многими ведущими мировыми обществами. Wiley предоставляет различные виды услуг, такие как онлайн-библиотека Wiley, Wiley PLUS и другие. WALS — это часть внутренней инфраструктуры Wiley, отвечающая за управление лицензиями и обработку публикаций. Обязанности: в составе команды разработчиков я отвечал за разработку функций и поддержку продукта. Я перенес приложение с Spring 3 на Spring 4 и интегрировал WALS с внутренним инструментом Online Open Wiley. Реализована асинхронная обработка лицензионной информации. Я предложил внедрить и реализовал функционал, обеспечивающий более эффективную обработку публикаций. Тех. стек: Java, Spring, Hibernate, Tomcat, Apache Wicket, XML, XSLT, XPath, Restful Web Services, SOAP Web Services, TestNG, Mockito, Tibco EMS (JMS), CVS, Hudson "
+            }
+        },
+        {
+            "uuid": "e3976e74-e71b-34db-8e98-08dc422fa567",
+            "about": " Обучаемость Коммуникабельность Организованность Ответственность ",
+            "key_skills": "Java 8 и 11, osgi, postgresql, testng, mockito, maven, rest, javafx, hibernate, spring, c#, sqllite, docker, teamcity, bitbucket.",
+            "experienceItem": {
+                "position": "Freelance Software engineer",
+                "description": " - Создание пользовательских мобильных приложений с использованием нативных технологий в соответствии с требованиями заказчика - Проектирование и разработка услуг отдыха Стек технологий: c#, sqllite, java 8, rest, spring, postgresql, sqllite "
+            },
+            "educationItem": {
+                "faculty": "Информационные Системы, техник",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "9a9c3ff1-49f8-30dd-a294-e56fc60cae64",
+            "about": " Общий опыт разработки на различных языках программирования более 14 лет. Не боюсь работы. Нос от технологий не ворочу. Ответственный и всегда на связи. ",
+            "key_skills": "Java EE, Spring Framework, Intellij IDEA, Работа в команде, HTML, Java, JavaScript, SQL, Hibernate ORM, Git, Apache Tomcat, Apache Maven, PostgreSQL, JDBC, ООП, JUnit, REST, Log4j, LiqueBase, Angular2",
+            "experienceItem": {
+                "position": "Game Developer",
+                "description": " разработка полного цикла на движке Unity3D. Языки разработки: C#, JavaScript "
+            },
+            "educationItem": {
+                "faculty": "Транспорта нефти и газа, Бакалавр техники и технологии по направлению «Защита окружающей среды",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Бакалавр"
+            }
+        },
+        {
+            "uuid": "6561771c-7ef3-3e50-ab3a-ba8547201480",
+            "about": " О себе: Java/Kotlin-разработчик, знаю Spring Boot, Hibernate, PostgreSQL, Liquibase, RabbitMQ, есть опыт MySQL, MongoDB, Freemarker, Webpack, считаю признаком зрелого проекта - наличие автотестов. Умею фиксить невоспроизводимые тестировщиками баги, восстанавливать сервера после других людей(при наличии ssh root). В свободное от работы время делаю pet-проекты на Java/Kotlin/Go, см. ниже. Java: * Spring: Spring Boot, Spring Data JPA, Spring Data JDBC, Spring Data Mongo, Spring Data R2DBC, Spring Rabbit, Spring Kafka, Spring Testing, Spring Security, Spring Session, GraalVM. JEE: JMS, JPA; JDBC, Hibernate Databases : MySQL, H2, MongoDB, PostgreSQL, DoltDB Caches: Redis, Hazelcast MQ/Log : RabbitMQ, Apache Qpid, ActiveMQ, Kafka, ksqlDB * Web Servers: Tomcat, Jetty, Undertow, Ktor * GraphQL : Spring GraphQL, Netflix DSG framework * Application Servers: Tomcat, Wildfly, Glassfish * OIDC: Keycloak * Testing frameworks: JUnit, TestNG, Rest Assured, Mockito, Spring Test, Testcontainers, Jmeter; * build tools: Maven, Gradle; * (De)serialization: XStream, JAXB, Jackson, JsonPath * JSF 2.0: PrimeFaces SCM : git, svn, TFS; CI : Jenkins, Travis, Gitlab CI, Github Actions Технологии и др: TDD, Design Patterns, DDD. Other programming languages: Groovy, Kotlin, Python. OS : Fedora, CentOS, Debian, Alpine Linux : systemd, journald, bash, ansible, supervisord VM : VMware Workstation, Oracle VM VirtualBox, Microsoft Virtual PC 2007, qemu Сontainerisation : Docker, Docker Compose, Kubernetes, Openshift, OKD Microservices : Consul, Feign Monitoring/Tracing : Prometheus, Grafana, ELK, Spring Cloud Sleuth, Open Metrics, Jaeger, OpenCensus, OpenTelemetry, Micrometer ",
+            "key_skills": null,
+            "experienceItem": {
+                "position": "Программист",
+                "description": " Обязанности: - Внедрение работы с виртуальными машинами VMware Workstation через ant-vix-tasks в тестовый фреймворк ... и последующий отказ от тасков в пользу vmrun; - Расширение функциональности тестового фреймворка для новых сценариев. Java • VMware "
+            },
+            "educationItem": {
+                "faculty": "Вычислительных машин и систем; ВМС",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "5ae3b7a0-6028-3bd8-8b4e-27a861503806",
+            "about": null,
+            "key_skills": "Java, Spring Framework, Spring Boot, Apache Kafka, MongoDB, Docker, Hibernate, Elasticsearch, PostgreSQL, Hybris, TeamCity, Git, GitLab, GitHub, Microservices architecture, Multithreading, JUnit testing, Integration testing,  ирование API",
+            "experienceItem": {
+                "position": "Backend Developer",
+                "description": " Разработка сервиса для ВинЛаб интернет магазина. Разработка программного обеспечения Backend разработка Разработка системы для базы данных Выявление и устранение багов Стек технологий: Java 8, Spring, Hybris, PosgreSql "
+            },
+            "educationItem": {
+                "faculty": "Bachelor's degree",
+                "specialty": "Economist and Managment",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "6cf3cee0-c911-30f6-b254-416029f8af3b",
+            "about": null,
+            "key_skills": "Git, Высоконагруженные системы, PostgreSQL, Docker, Java, Hibernate, Базы данных, Проектирование архитектуры приложений, Oracle, Java Spring Framework",
+            "experienceItem": {
+                "position": "Software Engineer",
+                "description": null
+            },
+            "educationItem": {
+                "faculty": "Бизнес-информатики",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "8e456229-6e4e-3d57-a90e-ae4c3e1db869",
+            "about": " Навыки: • Знание Java Core; • Паттерны проектирования; • Разработка REST-сервисов, MVC приложений на Spring Framework, Servlets/Reactive; • Работа с базами данных: PostgreSQL, ORACLE, JDBC, Hibernate ORM; • HTML, CSS, JSP, Thymeleaf; • Docker, Kubernetes, Rencher; • Разработка отчетов, используя Apache POI - библиотека для работы с Microsoft office; • Знание английского языка на разговорном уровне, технический английский. ",
+            "key_skills": "Java · Spring Boot · SQL · Hibernate · Nosql · MongoDB · Docker · Git · PostgreSQL",
+            "experienceItem": {
+                "position": "Инженер-программист АСУТП",
+                "description": " • Конфигурирование, программирование и работа с программными продуктами Yokogawa; • Изучение причин отказов и нарушений в системе, анализ информации, составление отчетов; • Переговоры с иностранными заказчиками, ежедневная коммуникация с зарубежными коллегами. Java · HTML · CSS · SQL · Администрирование сетей · Администрирование серверов · Hyper-v "
+            },
+            "educationItem": {
+                "faculty": "Автоматизации и технологии машиностроения",
+                "specialty": "Инженер-программист в сфере АСУТП",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "d587e742-f07f-3037-b412-ac12c89f6e6a",
+            "about": null,
+            "key_skills": "Java, Spring Framework (MVC, Security, Data, Web, Core, Feign), Spring Boot, Kafka, Oracle, PostgreSQL, Maven, Hibernate ORM, RabbitMQ, Groovy, Fluentd, Junit, Mockito, Intellij Idea, Git, GitLab, Swagger, Lombok, MyBatis, SQL, Mapstruct, Jira, Atlassian Confluence, XML, Unit Testing, ООП",
+            "experienceItem": {
+                "position": "Java Developer",
+                "description": " Задачи: - Добавление новых эндпоинтов и поддержка старых. - Реализация service слоя и бизнес-логики. - Проектирование DTO, сущностей БД и их mapping. - Покрытие кода тестами: Unit. - Поддержка существующего кода и оптимизация работы приложения. - Написание SQL-запросов к БД. Стек технологий: -Java 8, Maven -Технологии и фреймворки: Spring Framework (core, web, boot, data, MVC), Hibernate ORM, Lombok, MapStruct -База данных: PostgreSQL -Инструменты тестирования: JUnit, Mockito -IDE: Intellij Idea -Контроль версий: Git, GitLab "
+            },
+            "educationItem": {
+                "faculty": "Физико-математический",
+                "specialty": "Информатика",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "5785c202-6744-3e1b-994a-d5bffc6aad14",
+            "about": " Java-разработчик с ~ 5-летним опытом разработки коммерческих решений и автоматизации бизнес-процессов, имеющий опыт управления проектами и командой разработчиков. ",
+            "key_skills": "Java, Spring Framework, Spring Boot, Spring MVC, Spring Data, PostgreSQL, MySQL, Kafka, Hibernate, Docker, MariaDB, K8s",
+            "experienceItem": {
+                "position": "Java Software Developer",
+                "description": " - Разработал и устранил неполадки высоконагруженного приложения для сбора долгов с более чем 600 тысячами строк кода; - Оптимизирована ключевая функциональность, оптимизированы дорогостоящие SQL-запросы. Временные затраты на настройку платежного запроса сократились на 67%; - Разработал и внедрил систему сбора всех тендеров с 8 крупнейших тендерных площадок Казахстана с подробной аналитикой и прогнозом прибыльности участия; - Руководил разработкой системы автоматизации кадровых процессов. Автоматизация всех этапов работы сотрудника в компании; - Занимался технической поддержкой, устранением неполадок и разработкой высоконагруженного проекта с 500 тыс.+ строк кода, большим набором процедур pl/pgSQL, оптимизацией SQL-запросов, работа с многопоточностью; - разработал систему сбора и дальнейшей продажи продуктов с истекающим сроком годности. Под моим руководством было выполнено следующее: интеграция API с 2 крупными торговыми сетями в, интеграция с Android-приложением, разработка интернет-магазина для продажи "
+            },
+            "educationItem": {
+                "faculty": "Bachelor's degree, Computer Science and Software Engineering",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "0fc31d5b-a567-3753-8214-9899923545d0",
+            "about": null,
+            "key_skills": "Kotlin, Java, Spring Framework, Spring Boot, Project Reactor, Elasticsearch, Flow, Docker, Kafka, PostgreSQL, MySQL, SQL, Http, Google Cloud Platform, Hibernate, Vaadin, RESTful, WebServices, Git",
+            "experienceItem": {
+                "position": "Программист-разработчик Java",
+                "description": " Разработка и поддержка системы взыскания просроченных задолженностей “Alpha Debt Management” и интеграция с АБС Equation. Standalone приложение Технологии: Hibernate, Java 7, Vaadin "
+            },
+            "educationItem": {
+                "faculty": "Электротехники и автоматики (ФЭА)",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "d6c4ef10-657d-30b3-80d0-4cf1dda65c4e",
+            "about": " Пример моих работ: / My github account: ",
+            "key_skills": "Java, Kotlin, Spring Framework, Spring Boot, Postgres, SQL, no-SQL database interaction, Apache Kafka, Kubernetes, Android, Maven/Gragle, PostgreSQL, Docker, Hibernate, Android studio",
+            "experienceItem": {
+                "position": "Java-разработчик",
+                "description": " Разработка и проектирование веб аппликаций с нуля, интеграция со сторонними и внутренним системами и службами. Разработка нового функционала и поддержка существующего. Стек технологий: Java, Spring Framework, Spring Boot, PostgreSQL, Docker, Kafka, WebFlux, Maven, Git "
+            },
+            "educationItem": {
+                "faculty": "Институт повышения квалификации",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "6abae195-2cbf-3bbe-8dfb-8d2dcc3e88b6",
+            "about": null,
+            "key_skills": null,
+            "experienceItem": {
+                "position": "Инженер-программист",
+                "description": "Участие в разработке проектов на системе создания распределенных приложений Sitex (Servlets, JSP, MSSQL, Mysql) Проекты: Портал ОГВ ТО Портал ФСБ "
+            },
+            "educationItem": {
+                "faculty": "Master's degree, Information Technology",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "989b9e34-1ee0-3fa0-8ac8-b4617d7444b7",
+            "about": "Долгое время увлекаюсь программированием. Изучая веб-технологии, экспериментировал с CSS, HTML, JavaScript, проходил онлайн-курсы и делал свои учебные проекты. Со временем пришло осознание, что фронтэнд больше не доставляет должного удовольствия, и я перешел на скрытую сторону процесса - серверную разработку. К этому времени у меня уже были навыки программирования, любовь к чистому коду и решению сложных задач - и выбрав самый надежный, безопасный и востребованный язык с огромным сообществом я принялся за дело, а вскоре получил первую работу Java Developer. В свободное время увлекаюсь ИИ. Люблю создавать полезные для человечества продукты, помогающее людям улучшать свою жизнь. Чувствую удовлетворенность, когда достигаю поставленных целей и могу оценить результаты. Ценю конструктивную обратную связь, партнерские отношения в коллективе, с уважением отношусь к чистоте кода и дедлайнам.",
+            "key_skills": "Java, Spring Framework, SQL, Git, PostgreSQL, Hibernate ORM, Apache Maven, Linux, REST, JUnit, Docker, Atlassian Jira, JDBC, Kafka, Spring Boot, Java Core, MongoDB, RabbitMQ, JPA, Jenkins, OpenShift, Redis, DevOps, Gradle, Elasticsearch, Webflux, Kubernetes, Nginx, Istio, GOF",
+            "experienceItem": {
+                "position": "Java Developer",
+                "description": "Над каким проектом работал - Разработка аналога Stack Overflow для разработчиков компании. Какие обязанности у меня были? - Проработка бизнес-логики с заказчиками. - Архитектура микросервиса. - Создание микросервисов. - Реализация бизнес-логики. - Рефакторинг. - Добавление нового функционала. - Поиск ошибок. - Работа с эндпоинтами в контроллерах. - Работа с базами данных. - Создание DTO и сущностей. Какие технологии я использовал? - Java 8, 11, 17, 21 Project Reactor, Concurrency, Maven, Gradle, Spring Boot, Web, AOP, Validation, Security, Data, MVC, I18n, HATEOAS и другие. - Spring Cloud (Eureka, Gateway, Resilience4j, Sleuth, Zipkin, config и другие). - RabbitMQ. - Kafka. - WebFlux. - Swagger. - PostgreSQL, MySQL. - Hibernate. - Docker. - Kubernetes. - Openshift. - Redis. - MongoDB. - Jenkins. - JUnit5, Mockito, Testcontainers. - Lombok. - React. - MapStruct, ModelMapper. - Travis CI. - PromQL, Grafana - Tomcat\\Netty - SSL\\TLS HTTP\\HTTPS и другие."
+            }
+        },
+        {
+            "uuid": "794b93d6-2bea-3e7f-add7-b56fc6f4ae06",
+            "about": null,
+            "key_skills": "ООП, Apache Maven, Spring Framework, Spring Boot, SQL, PostgreSQL, Git, Atlassian Jira, JOOQ, JPA, JUnit, Mockito, JDBC, Kafka, SOAP, Spring Data, REST, Java, ORACLE, SOLID, Intellij IDEA, Gitlab, Lombok, Gradle, REST API, Декомпозиция задач, Jenkins, Docker, Scrum, Java 17",
+            "experienceItem": {
+                "position": "Инженер-программист",
+                "description": "Программист ПЛИС на языках С/Verilog"
+            },
+            "educationItem": {
+                "faculty": "Автоматика и электроника физических установок",
+                "specialty": "Электроника",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "9fe9cded-6120-384e-8f9a-96ce33bc99dd",
+            "about": " - Управление командой разработки 5-50 чел. - Построение процессов разработки - Построение архитектуры приложения - Оценка трудозатрат на проекте ",
+            "key_skills": null,
+            "experienceItem": {
+                "position": "Разработчик",
+                "description": " Создание web-проектов. Реализация серверной части для получения лицензионного ключа и его регистрации в бд. Написание сервиса для получения и заполнения каталога для внешнего desktop проекта. "
+            },
+            "educationItem": {
+                "faculty": "",
+                "specialty": "Специалист, Радиотехника",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "1e0e14bd-34a8-34a3-b17a-d13a9a29ed22",
+            "about": null,
+            "key_skills": "Java 6-17, Spring Boot 3, Clickhouse, MongoDB, Redis, Spring Cloud, Docker, K8S, ELK, Kafka, Docker, Git, XML, SOLID, REST, ООП, MySQL, Kotlin, Hibernate",
+            "experienceItem": {
+                "position": "Инженер-программист",
+                "description": " Разработка нового и поддержка старого функционала на Spring, Oracle, MySql, Hibernate, Jpa и т.д. Проекты: 1.) Смс-рассылки и их администрирование. Легаси код, переписанный под java 8 с использованием серверов и jsp/jstl. Написан синглтоном, что усложняет работу при больших нагрузках и вызывает там свои трудности. В качестве бд используется PostgreSql совместно с \"любимыми\" процедурами без логов:) 2.) Мелодии на телефонный звонок. Покупка, администрирование и прочее Такой же легаси, с отличием в виде java 6 3.) Просмотр cdr сервиса и его удаленное конфигурирование. Spring boot, java 11, Clickhouse(cdr), MySql(user operations), Typescript/Custom vue based framework e.t.c. 4.) Полностью переработанный проект по мелодиям на телефонный звонок. Микросервисная архитектура. Я занимался двумя модулями. Первый - высоконагруженный, порядка 3000 запросов в секунду. Написан единолично мной. Отвечает за получение мелодий с учётом бизнес логики. Kotlin, Spring based framework, MySql. Второй модуль - веб. Администрирование, покупка и т.д. Kotlin, java 15, MySql 5.) Единое окно авторизации на приложения компании(в разработке всего пару месяцев). Проектом занимаюсь один. Java 15/kotlin, spring boot Вся информация по юзерам хранится в Ldap, что вызывает свои трудности. Так же будет использовали MySql 6.) Так же было написано множество утилит для проектных целей и поддержано других проектов. "
+            },
+            "educationItem": {
+                "faculty": "Программно-защищенные инфокоммуникации",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "aff4b709-ccd2-340a-949f-84b1bb7eb260",
+            "about": " Также в свободное от работы время принимал участие в разработке платформы продуктового стартапа, который был нацелен на максимальную автоматизацию действующего промышленного предприятия. Выступал в качестве team lead по backend разработке, активно принимаю участие в написании микросервисов и проработкой общей архитектуры. Из задач которые удалось успешно разработать: библиотека для платежного терминала, микросервис по хранению и отслеживания статуса подчиненных устройств(шлагбаум, rfid/qr сканнер и т.д.), микросервис по генерации qr-code для посетителей предприятия, микросервис по считыванию rfid-меток. Обучался на курсах на платформе skillbox по курсу java-разработчик(ссылка на диплом) с целью получения новых компетенций, где мною были выполнены два больших проекта(блоговый движок -, социальная сеть), изучены модули по производительности и оптимизации, базовая работа с NoSql базами данных(mongo, redis), c распределенными хранилищами и вычислениями(hdfs, spark). В процессе работы в рамках повышения квалификации проходил закрытый курс по продвинутой java-разработке. Люблю учиться и узнавать новое, хочу дальше продолжать совершенствовать свои навыки в разработке программного обеспечения. Сейчас прохожу курс по углублению знаний работы потоков и многопоточных приложений на базе jvm. ",
+            "key_skills": "Java, ООП, SQL, Spring Boot, Kubernetes, Elasticsearch, Apache Kafka, Kotlin, PostgreSQL, AWS",
+            "experienceItem": {
+                "position": "Java разработчик",
+                "description": " Ключевой обязанностью была разработка платформенных микросервисов и общеплатформенных библиотек в разрезе проекта ДБО(дистанционного банковского обслуживания) на базе spring-boot 2.0, java 8-11, также тезисно могу выделить другие обязанности и навыки полученные в процессе работы на текущем проекте: проработка интеграционных решений с apache kafka, elasticsearch, postgresql, ibm mq; проработка интеграционных решений rest api для межсервисного взаимодействия с использованием стека spring-cloud(eureka, feign-clients, service-discovery); деплой и сборка микросервисов в среду kubernetes, базовое понимание основных сущностей kubernetes, понимание процессов ci/cd; построение модели данных с помощью hibernate orm, в качестве инструмента для миграций использовался liquibase; написание unit и интеграционных тестов, используя test-containers, junit; понимание работы сборщика maven(разбиение на модули, фазы сборки, управление плагинами); участие в code-review, обсуждение планируемых решений, погружение в архитектуру платформы; трекинг задач в системе jira, понимание принципов agile/scrum. "
+            },
+            "educationItem": {
+                "faculty": "Технологический",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "9cef8747-af3a-3833-9098-3bfabf1e40eb",
+            "about": null,
+            "key_skills": "Java, Spring Framework, Git, SQL, Apache Maven, Linux, REST, JUnit, Atlassian Jira, Spring Boot, JDBC, Java Core, Intellij IDEA, XML, Spring, Java Script, Jenkins, Maven, Hibernate, Lombok, React, Oracle DB, GitHub,",
+            "experienceItem": {
+                "position": "Java developer",
+                "description": "Доработка системы Infor WMS под нужды заказчиков. Реализованы доработки для крупной сети продуктов питания, фармацевтического склада, сети магазинов одежды. Технологии: Java, JBoss, SQL, reporting"
+            },
+            "educationItem": {
+                "faculty": "Информатика и системы управления",
+                "specialty": "программная инженерия",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "c2a6bf5a-45ca-3f79-93ff-355a724b65df",
+            "about": null,
+            "key_skills": "Java, Spring Boot, Kotlin, Coroutines, temporal, PostgreSQL, spring-jpa, active mq, spring-integration, reactor, jooq, spring-data, kafka, testcontainers, K8s, OpenShift",
+            "experienceItem": {
+                "position": "Java-разработчик",
+                "description": "Разработка учебных проектов с использованием tomcat, hibernate, postgresql, apache kafka, Spring Framework, Spring MVC, Spring Boot, Spring Security."
+            },
+            "educationItem": {
+                "faculty": "Очного обучения",
+                "specialty": "Менеджмент в строительстве",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "f03552d8-e216-300d-9548-4c0541a9c5b8",
+            "about": " Быстрая адаптация в команде Стремление изучать и применять новые технологии в проекте Понимание и чтение технической литературы на Английском языке ",
+            "key_skills": null,
+            "experienceItem": {
+                "position": "Java-разработчик",
+                "description": " Стек применяемых технологий: - Java 8 - JavaFx Резюме обновлено 29 марта 2022 в 12:51 - Hibernate/JPA - JUnit - Spring framework (Сore, Security, MVC , Boot) - MySQL - Apache Maven, Tomcat - Git - HTML, CSS, JavaScript(AJAX, JQuery), Thymeleaf, Bootstrap - Trello, Slack "
+            }
+        },
+        {
+            "uuid": "1f1809fd-fde5-3720-a5dc-02f1160f53a9",
+            "about": null,
+            "key_skills": "MySQL, SQL, Java, Hibernate, Git, Spring Boot, Docker, RESTful API",
+            "experienceItem": {
+                "position": "Разработчик",
+                "description": " Занимались разработкой CRM системы для упрощения работы менеджеров и взаимодействия разных отделов компании Добавление нового функционала Реализация сервисного слоя Создание DTO сущностей Работа с бд, написание контроллеров Иногда тестирование и отлов багов Стек технологий: Java 8, Spring Framefowk (web, boot, security, data), Hibernate ORM, Lombok, MySQL, JUnit, Maven, Gitlab "
+            }
+        },
+        {
+            "uuid": "a67850f6-abd4-35ab-a3b0-0de92d2e2293",
+            "about": null,
+            "key_skills": "Java 8-17, Java SE, Java EE, Spring Framework (Boot, Security, Data, Cashe, Web, Cloud), Apache Maven, Apache Tomcat, Apache Kafka, RabbitMQ, Docker, Kubernetes, Openshift, MySQL, SQL, Postgres, Oracle, Hibernate, Liquibase, Elasticsearch, intelliJ IDEA, Lombok, MapStruct, JUnit, Mockito, TestNG, Jenkins, TeamCity, Flyway, Amazon EC2, Amazon RDS, Amazon S3, Servets, ClearCase, Subversion, YouTrack, Git, Jira, Confluence",
+            "experienceItem": {
+                "position": "Java Developer",
+                "description": " На проекте я занимался разработкой функций и поддержкой онлайн-библиотеки Wiley. В составе команды из 8 Backend-разработчиков совершил перенос приложения на новую версию, сделал интеграцию с инструментом Wiley Online Open и реализовал асинхронную обработку информации о лицензиях. Задачи: - рефакторинг кода; - перенос системы на новую версию Spring 4; - интеграция внутренних инструментов; - написание unit тестов; - баг-фиксинг; - участие в code-review. Стек: Java 11, Spring Framework, RabbitMQ, Hibernate, Docker, Kubernetes, SOAP, TestNG, Mockito "
+            },
+            "educationItem": {
+                "faculty": "Институт информационных технологий, математики и механики",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "9a802e9b-87ee-3471-973e-3ce544e6de25",
+            "about": null,
+            "key_skills": "Java, Spring Framework (Boot, Cloud), Vaadin, JPA, Failsafe, Mapstruct, Liquibase, Swagger, JUnit, EasyRandom, Mockito, Testcontainers, WireMock, Maven, Gradle, Oracle DB, PostgreSQL, S3 Minio, Kafka, GitLab CI/CD, Nexus, Docker, Kubernetes, Git, REST",
+            "experienceItem": {
+                "position": "Java разработчик",
+                "description": " - Разработка модулей монолитной медицинской информационной системы. - Оптимизация существующего кода и работы с БД. - Поиск и устранение проблем в безопасности приложения. Стек технологий: Java, GWT, MyBatis, Tomcat, PostgreSQL, Ant, Git, Jenkins. "
+            },
+            "educationItem": {
+                "faculty": "Информатика и вычислительная техника",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "6065ee07-4c42-3cf4-8e45-9d053b9041f7",
+            "about": null,
+            "key_skills": "Apache Maven, JUnit, SQL, Spring Framework, Intellij IDEA, ООП, Git, Hibernate ORM, JPA, PostgreSQL, Apache Tomcat, Java SE, Design Patterns, XML, Atlassian Jira, jQuery, SIPp, Wireshark, RTP, Kotlin, Angular, Lombok, MapStruct, Spring Kafka, Mockito, RabbitMQ, REST, Gradle, Java 17",
+            "experienceItem": {
+                "position": "Software Developer",
+                "description": "Участие в разработке Spring/JPA Enterprise приложения. В ходе работы были использован следующей стек технологий: Maven, Spring MVC, Spring Data JPA, Hibernate, Spring Security, JSP, JUnit, Tomcat, Java 8 Stream API и сохранение в базах данных PostgreSQL."
+            },
+            "educationItem": {
+                "faculty": "ИТИС",
+                "specialty": "Программная инженерия",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "42eae4bf-4826-3105-b197-dc0afb063714",
+            "about": " В 2018 году я сменил профессию. Причиной этого стал сильный интерес к информационным технологиям. С тех пор я выбрал для себя язык программирования Java, и продолжаю развиваться на нем по сей день. В настоящее время я работаю Java-разработчиком. Отлично сотрудничает с заказчиком, легко интегрируется в различные процессы разработки. Мне нравится работать в команде профессионалов, которые любят расширять знания в современных технических решениях и которые каждый день узнают что-то новое. В свободное время я концентрируюсь на повышении квалификации, изучаю новые технологии, читаю различную техническую литературу, смотрю конференции. Hard skills: Java (SE, EE), TML & CSS, SQL (Postgres, H2), NoSQL (Mongo, Redis), ORM Hibernate, Spring Framework (Core, MVC,Boot, Data, Security), Maven, Gradle, Docker, Kubernetes, RabbitMQ, Apache Tomcat, Git, JUnit, Mockito Soft skills: Quick search and analysis of information, Learnability, Attention to details, Accuracy ",
+            "key_skills": "Git Java Spring Framework Apache Maven Spring Boot Spring Data Gradle PostgreSQL SQL JUnit",
+            "experienceItem": {
+                "position": "Java Developer",
+                "description": " Иcпользуемый стек технологий: Java, Spring Framework, Spring Boot, Hibernate, JPA, JUnit, Mockito, Tomcat "
+            },
+            "educationItem": {
+                "faculty": "Экономика",
+                "specialty": "Экономист-менеджер",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "a71b0749-1ebc-3099-b0a1-342ca64d1575",
+            "about": "I am a young doctor who recently defended thesis. I have skills in following areas: energy, mathematics, coding, signal processing and project management. I have experience in design and development of microservices-based application architecture by using following technologies: Java, Kafka, Protobuf, gRPC, Spring, Docker, Kubernetes, HELM. Moreover, I have a good experience in developing in Python, ReactJS, etc. These skills are confirmed by extensive working and developing in a range of prior positions. This knowledge allows me effectively contribute my skills as Software Professional, possessing competent Technical Skills. I like to read, play chess and football, learn something new, and also teach someone. I have two years of university teaching experience.",
+            "key_skills": "Java, Kafka, Protobuf, gRPC, Spring, Docker, Istio, Kubernetes, HELM",
+            "experienceItem": {
+                "position": "Java Software Engineer",
+                "description": "Work on 2nd & 3rd line support on project in the field of logistics, development softwareTechnology: Java, Scala, Oracle SQL, Delphi, Bash, Perl, CrystalReports."
+            },
+            "educationItem": {
+                "faculty": "Doctor of Philosophy - PhD, Engineering",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "ae797830-f7a6-38f3-abf8-e1dc6cf3b6c3",
+            "about": "Высокая обучаемость, хорошо умею работать в команде. Возникающие трудности, считаю вызовом. Решаю поставленные задачи. Оптимистичный, коммуникабельный, ответственный, образованый человек.",
+            "key_skills": "Java, JAVA Core, Spring Framework, Spring Security, Spring MVC, Spring Boot, Spring, Spring Boot, Mongo, OpenFeign, Docker, Swagger, Maven Spring Cloud, Apache Maven, JDBC, Hibernate ORM, JUnit, Java Servlets, Ajax, Intellij IDEA, Apache Tomcat, PostgreSQL, Apache Camel, MyBatis, Linux, Bootstrap",
+            "experienceItem": {
+                "position": "Java-разработчик",
+                "description": "Разработка электронного дневника для удобства мониторинга уровня образования класса, школы, города: - реализация back-end для клиентского сервиса; - частичная реализация front-end; - реализация системы рассылки оповещений; - разработка рест-контроллеров; - написание модульных и интеграционных тестов; - разработка модуля статистики; - разработка модуля создания мероприятий; - разработка бизнес слоев; - разработка клиентских слоев; - написание SQL- запросов; - рефакторинг кода; - bug-fixing. Стек технологий: - Java 8; - Hibernate/JPA; - Spring Framework (Core, MVC, Boot, Data, Security); - MySQL; - JUnit; - HTML, CSS, JavaScript (JQuery), AJAX, Bootstrap, Thymeleaf; - Log4j; - Maven, Git, Tomcat;"
+            },
+            "educationItem": {
+                "faculty": "Химический",
+                "specialty": "Педагог",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "0cfa3d00-10b5-38d5-b166-329ff6f4598b",
+            "about": " Способен хорошо работать самостоятельно или в составе профессиональной команды разработчиков. Постоянно стремлюсь к личному и профессиональному развитию. Я готов продвигаться в новых сферах и изучать новые языки. Projects • Network chat Falco • Quantum Money Transfer Service Backend • Cloud Storage Application - just like Google Drive • Apps MoveBox (Parcel Delivery) *Java 11, Gradle * Spring Boot, Spring Data JPA (Postgres) * Liquibase * API Gateway Webflux * Message Brokers - RabbitMQ * Swagger OpenAPI v3 * Docker compose * Eureka Server(Spring Cloud Netflix) * FeignClient * Spring Cloud Config * Spring Security JWT token ",
+            "key_skills": "SQL, Java, MySQL, HTML, CSS, Docker, Spring Framework, REST, Scrum, Jenkins, JSON API, Hibernate ORM, Spring WebFlux, Spring Reactor, Git, PostgreSQL, Nginx, JSON, Java Servlets, JDBC, REST API, CI/CD, Gradle, JUnit, MongoDB, Spring MVC, Spring Data, Mockito, Liquibase, Microservices",
+            "experienceItem": {
+                "position": "Java-разработчик",
+                "description": "Java 11, Spring WebMVC, Spring-Web, Hibernate, Spring Security, MySQL, Unit. Разработка онлайн-магазина. Реализация JUnit тестов. Реализация новые функций. Интеграция с МойСклад, со службой доставки СДЭК. Настройка и наполнение базы данных MySQL. Настройка Spring Security для обеспечения аутентификации и авторизации пользователей в личном кабинете."
+            },
+            "educationItem": {
+                "faculty": "Физико-технический факультет",
+                "specialty": "Электроника и микроэлектроника, бакалавр техники и технологии",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "2cf91680-b719-3f92-9a56-dbbc9cd17b6c",
+            "about": " Self-Taught Java Developer. Интересуюсь дальнейшим развитием в сфере Java-разработки, в частности микросервисной архитектурой, изучением технологий Apache Ignite, Kafka, Nginx, Docker, Openshift, Jenkins, Prometheus, Grafana и других. Рассматриваю вакансии требующие знания английского и хочу развиваться в этой области. ",
+            "key_skills": "Java, ООП, Git, Hibernate, SQL, MySQL, Java Spring Framework, Apache Maven, Spring Boot, Базы данных монолитная архитектура, - Java 8/11, - Spring 5+ (Spring Data JPA, Spring Security, Spring MVC), - JPA/Hibernate, - SQL - MySQL, - RESTful, - JUnit, Mockito, - Log4j, - Maven, - Git - Bitbucket, - Lombok, - Swagger (OpenAPI), - Postman, - IntelliJ IDEA, - Jira",
+            "experienceItem": {
+                "position": "Java-разработчик",
+                "description": " Разработка и поддержка внутренней корпоративной системы - личный кабинет работника, система обучения, создание и обработка инцидентов, техническая поддержка пользователей. Обязанности: поддержка и доработка корпоративного портала разработка нового функционала тестирование поиск и исправление багов технические консультации Стек технологий: монолитная архитектура, Java 8, Spring 5+ (web, security), JPA/Hibernate, MySQL, JUnit, Maven, Git - Bitbucket, Lombok, Swagger (OpenAPI) "
+            }
+        },
+        {
+            "uuid": "5cfd26bc-84e6-3714-b54b-746acbca3d18",
+            "about": null,
+            "key_skills": "Java, Java SE, Spring Framework, Spring Boot, PostgreSQL, Kafka, Apache Maven, OpenShift, Hibernate ORM, Liquibase, Jenkins, Bitbucket, CSS, HTML, JDBC, jUnit, Spring Test, Mockito, Git, GitLab, Jira, Confluence",
+            "experienceItem": {
+                "position": "Инженер-программист",
+                "description": "• Анализ алгоритмов в среде Matlab и C; • Сетевые настройки в ОС Windows и Fedora; • Настройка VMware на ОС Windows и Fedora; • Поддержка работоспособности компьютеров."
+            },
+            "educationItem": {
+                "faculty": "Факультет компьютерных технологий и информатики",
+                "specialty": "УТС",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "7a79f64e-7a87-3008-b8ec-e165a94f72e0",
+            "about": null,
+            "key_skills": "Java, Kafka, Spring boot, Webflux, Intellij IDEA, ELK, Clean Architecture, Liquibase, Git, PostgreSQL, NoSQL, Code review",
+            "experienceItem": {
+                "position": "Практикант",
+                "description": "В обязанности входили сбор и анализ данных."
+            },
+            "educationItem": {
+                "faculty": "Вычислительной математики и кибернетики",
+                "specialty": "Алгоритмические языки",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "6099f6cb-1897-3983-9afb-a71b37ebdc7b",
+            "about": null,
+            "key_skills": "Java, Git, Docker, PostgreSQL, Spring Boot, Apache Kafka, Camunda, Hibernate, Junit, RESTful WebServices.",
+            "experienceItem": {
+                "position": "Java Developer",
+                "description": " В составе команды, занимался разработкой комплексного решения для внутреннего пользования ЛК трейдера. ПО позволяет отслеживать свои позиции в реальном времени, анализировать сделки, просматривать календарь торговых событий. Цель проекта - сохранять данные о работе трейдера, с целью последующего анализа и внесения изменений в стратегию торговли. Обязанности: Добавление новых эндпоинтов и поддержка старых, реализация рест-контроллеров, проектирование моделей данных и сущностей БД, SQL запросы с целью сбора статистики за определенный период, написание Unit- тестов Стек технологий: Java 8, Spring (web, boot, security, data), Hibernate ORM, Lombok, MapStruct, PostgresSQL, JUnit, Maven, Gitlab "
+            },
+            "educationItem": {
+                "faculty": "Экономический",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "e58e684a-509e-33c6-b88c-6d3c07d348bb",
+            "about": null,
+            "key_skills": null,
+            "experienceItem": {
+                "position": "Инженер-программист",
+                "description": " Занимался разработкой приложений на языке Java(с использованием JavaFx) - документооборот для организации, программа для сенсорных терминалов для управления хранением и выдачей инструментов(использовалась авторизация по отпечатку пальца), писал скетчи для Arduino(управление открытием затворок, индикация) Java, ООП, JavaFX, Microsoft SQL Server, C, Arduino. "
+            },
+            "educationItem": {
+                "faculty": "Институт информационных технологий и управляющих систем (ранне АПиИТ)",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "f2094a17-764b-3cba-8a2f-cf25ce4d1100",
+            "about": null,
+            "key_skills": "Git, Intellij IDEA, Apache ActiveMQ, Microservices, Spring Framework, Apache Karaf, Java Servlets, MyBatis, Camunda BPM, Java EE, Java SE, PostgreSQL, Apache Camel, Oracle Database, BPMN, JMS, Apache Maven",
+            "experienceItem": {
+                "position": "Ведущий специалист",
+                "description": " Обязанности и достижения: Доработал действующую автоматизированную банковскую систему согласно изменениям в законодательстве и требованиям клиентов; Внедрил автоматизированный импорт данных клиентов из базы сервиса \"Фокус\" компании \"СКБ Контур\"; Завершил проект автоматического создания учетных записей клиентов в базе банковской системы; Разработал программу автоматической обработки учетных записей клиентов, признанных банкротами; Поддержка legacy-кода. Основные используемые технологии: Язык программирования: Java 1.4. Среда разработки: Eclipse. База данных: Oracle Database. Система контроля версий: VSS. "
+            },
+            "educationItem": {
+                "faculty": "Radio Engineering",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "70547288-56fc-3cab-9bef-f752f2e1b21f",
+            "about": "Занимаюсь разработкой back-end приложений на java. kotlin.",
+            "key_skills": "Java, Kotlin, Spring, Maven, JOOQ, Postgres, OpenShift, Istio, Jenkins, Hibernate, Oracle, Gradle, Git, JUnit, Mockito",
+            "experienceItem": {
+                "position": "Java Developer",
+                "description": " Разработка и внедрение продуктов IDempiere и Liferay. Стек технологий:Java Core 7, Java EE (Servlets, Portlets, JAX-RS), OSGI Framework, Postgres "
+            },
+            "educationItem": {
+                "faculty": "Бакалавр, Прикладная математика и информатика",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "b1357f8e-3c98-3142-81e7-fd729ec50ca0",
+            "about": null,
+            "key_skills": "Java, Kotlin, Kubernetes, Spring Boot, Kafka, Gradle, SQL, Jenkins, Postgres, Ignite, Redis, REST, Gitlab, gRPC",
+            "experienceItem": {
+                "position": "C++ Developer",
+                "description": "Разрабатывала и поддерживала cистему информационного обеспечения управленческих решений в учреждениях дошкольного образования (ДОУ) в роли ведущего разработчика - расширяла функционала приложения - проводила рефакторинг - занималась технической поддержкой Разрабатывала и обслуживала системы государственно-общественного управления учреждением профессионального образования (СПО) в роли разработчика - расширяла функционала приложения"
+            },
+            "educationItem": {
+                "faculty": "",
+                "specialty": "Oracle 11g: Передовые методы PL/SQL",
+                "education_type": "Повышение квалификации",
+                "education_level": null
+            }
+        },
+        {
+            "uuid": "63b33138-5045-31fc-878b-65672a829658",
+            "about": " Увлекаюсь столярным делом. Катаюсь на велосипеде. ",
+            "key_skills": "Kotlin, Java, Spring Boot, Git, Junit, PostgreSQL, Hibernate, MongoDB, ELK Stack, Docker",
+            "experienceItem": {
+                "position": "Главный инженер по разработке",
+                "description": " Обязанности и достижения Проект \"Витрина\" - продажа продуктов экосистемы  банка Разработка приложения по продаже продуктов экосистемы  а через сеть банка и партнёров, а так же для теста методик продаж (бэкенд) . Успешно перешли с java на kotlin. Выполнил ряд интеграция с сервисами банка в т.ч. по отправке push- сообщений, авторизация клиентов по сберID, персональные предложения для клиентов. Написание запросов и оптимизация существующих Интеграции с внешними API Применяемые навыки Kotlin, Java, Spring Boot, PostgreSQL, Redis, Junit, Hibernate, Git, Apache Kafka, ELK Stack "
+            },
+            "educationItem": {
+                "faculty": "Менеджмента",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "099b1c65-c060-3f5d-87cf-42bda251c3ea",
+            "about": " Аналитический ум, способность разобраться в чужом коде. Быстро анализирую разнообразные деловые инициативы, отсеиваю неэффективные технологии. Выстраиваю общий алгоритм действий, эффективно и качественно. Предлагаю и использую в работе новые прогрессивные технологии. Опыт создания, поддержки и развития проектов в качестве Java-разработчика/ back-end/ front-end программиста. Статический анализ исходного кода, взаимодействие с разработчиками по исправлению и воспроизведению багов. Умение достигать высоких результатов в короткие сроки. Постоянное повышение квалификации, саморазвитие. Понимание архитектуры проекта, его жизненного цикла, «узких» мест и особенностей работы. Знание требований современного рынка к используемым технологиям и тенденций развития отрасли. Умение работать с заказчиками, программистами и дизайнерами для выполнения требуемой задачи, включая возможность как визуальной, так и технической оценки результата. Умение определить необходимость и целесообразность реализации того или иного визуального или технического решения, с точки зрения затрат, а также возможной пользы для проекта. Ссылка на гит по java ",
+            "key_skills": "Java, C++ and stl, Git, C++, MS Access, MySQL, Json (Jackson), Apache Maven, Spring, Android, XML (jaxb), Java Multithreading, Java collection, Swing, JUnit, Apache Tomcat, Gradle, Oracle Pl/SQL, Blockchain, MS Visual Studio, IntelijIdea, Jupyter notebook, Clickteam fusion 2.5, Spring Framework, Hibernate, Zookeeper, Kafka, Kotlin, Docker.",
+            "experienceItem": {
+                "position": "Программист Java",
+                "description": " • Реализация доработки банковской АБС; • Работа с пользователями, заказчиками, анализ бизнес-потребностей; • Доработка банковского ПО под требования бизнеса. "
+            },
+            "educationItem": {
+                "faculty": "Экономический, Менеджмент организации",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "fd9c4130-177f-3546-8974-189a52fcc496",
+            "about": " Java SE (8/11/17), Kotlin, Spring (Boot, MVC, WebFlux, Security, Data, WS), Reactor, JDBC/R2DBC, JPA (Hibernate) SQL (PostgreSQL, Oracle, Microsoft SQL) NoSQL (Redis, InfluxDB, Graphite, ElasticSearch, Solr, ZooKeeper) Kafka, RabbitMQ, IBM MQ HTML/CSS, JavaScript (React), Python HTTP, REST, SOAP, WebSocket, gRPC Git, Maven, Gradle, GitLab CI/CD. Docker ",
+            "key_skills": null,
+            "experienceItem": {
+                "position": "Java Developer",
+                "description": " Участвовал в создании и запуске в релиз серверной части мобильного приложения ФК Спартак. Развивал веб-интерфейс для управления контентом сайта. В дальнейшем перешёл в команду проекта Столото. В рамках работы над ним создал сервис интеграции с SAP CRM и провайдера OAuth для дочерних сайтов. Стек: Java, Spring, PostgreSQL, JPA (Hibernate), Redis, InfluxDB, Graphite, ElasticSearch, Solr, ZooKeeper, Kafka, RabbitMQ, Docker (Rancher), GitLab CI/CD, Maven "
+            },
+            "educationItem": {
+                "faculty": "Звукорежиссура",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "2444cdfb-370c-3f84-b97b-9462255688f2",
+            "about": " • Более 7 лет опыта в разработке ПО • 3.5 года работы на проектах в сфере fintech на Java стеке • Опыт в разработке приложений на микросервисной и монолитной архитектуре • Опыт разработки приложений с нуля и поддержки уже существующих продуктов • Опыт работы с legacy • Умение работать с чужим кодом • Опыт решения коммерческих задач • Опыт работы с linux Базы данных: MS SQL, PostgreSQL, H2 Фреймворки Spring: Spring Boot, Spring Security, Spring Data, Spring MVC, Spring JDBC, Spring Integration, Spring Cloud, Spring Kafka Прочие библиотеки и технологии: Kafka, Querydsl, Log4j, Liquibase, Camel, Swagger (Springdoc), Hibernate, JUnit, JWT, ActiveMQ, Maven, Gradle, REST, SOAP, Criteria API, Lombok, MapStruct, Model Mapper. Редакторы и интегрированные среды разработки: IntelliJ Idea Серверы приложений: Tomcat, JBoss Инструменты для автоматической сборки и тестирования: Jenkins, SonarQube Инструменты для тестирования и отладки API: Postman, SoapUI Инструменты для работы с базами данных: DBeaver Системы контроля версий: GitLab, GitHab Инструменты для виртуализации: Docker Инструменты для управления проектами: Jira, Confluence. ",
+            "key_skills": "Ответственность, Java, SQL, ООП, Spring Framework, PostgreSQL, Hibernate ORM, Git, Java Core, REST, Apache Tomcat, kafka, MS SQL, Apache Maven, System Integration, MVC, API, Системы идентификации и аутентификации",
+            "experienceItem": {
+                "position": "Ведущий разработчик отдела внедрения",
+                "description": "Разработка нового функционала на базе платформы 1С. Участие на крупных проектах. Обучение клиентов(ведение курсов по конфигурациям 1С, по программированию). Обучение и подготовка к сертификации сотрудников. Менторство."
+            },
+            "educationItem": {
+                "faculty": "Инфокоммуникационные технологии и системы связи",
+                "specialty": "Сети связи и системы коммутации",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "8b1dc5d0-dde1-31be-851f-a643ae235d50",
+            "about": " Готов учиться и повышать свои навыки, работать в команде. ",
+            "key_skills": "Java, Hibernate, Java Spring Framework., SQL, Git, Apache Maven, Apache Kafka, Apache Tomcat, Jira, Agile",
+            "experienceItem": {
+                "position": "Программист",
+                "description": " Два проекта автоматизированной информационно-измерительной системы учета электроэнергии. Разработка нового функционала и поддержка существующих. Взаимодействие с аналитикой и заказчиком. Достижения: разработка основной многопоточной части приложения для сбора и обработки информации с приборов учета электроэнергии Основной стек: monolith, Java 8, Spring, CUBA Platform, Postgresql, Jira, Confluence. "
+            },
+            "educationItem": {
+                "faculty": "Разработки нефтяных и газовых месторождений",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "639c1eda-c4ec-3319-b2e2-17ad5d87e173",
+            "about": null,
+            "key_skills": "Java 17, Spring, JHipster, WebFlux, ELK, PostgreSQL, Oracle, Elasticsearch, Kafka, TS, React, Docker, Kubernetes, Grafana, Selenide",
+            "experienceItem": {
+                "position": "Java-разработчик",
+                "description": "Компания занимается разработкой программ лояльности для компаний и заведений. Тех. стек: Spring (Boot, Data, WebFlux), Oracle DB, Java 17 — Реализовывал новый функционал для внутренних нужд компании и других работников и дорабатывал существующий; — Разработал новые модули проекта; — Разработчиков на Java, коммуникация с разработчиками команды и других отделов."
+            },
+            "educationItem": {
+                "faculty": "ИТМиТЛ",
+                "specialty": "Стандартизация и метрология",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "8e193a9a-d338-36b5-800b-45de7a809157",
+            "about": null,
+            "key_skills": "Java, Spring Framework, Spring Boot, PostgreSQL, MongoDB, Docker, Control Version System (Git), API Documentation, Integration tests, Unit Testing (Jest), MVC, RESTful API (Fiddler)",
+            "experienceItem": {
+                "position": "Backend Python/Django Developer",
+                "description": " Creating online shopping website ● Implementing new functionality in close cooperation with stakeholders ● Build well designed, clean applications with solid technical foundations ● Participate in design and code reviews, develop, debug, or modify source code and unit tests ● Create and maintain technical and support documentation "
+            },
+            "educationItem": {
+                "faculty": "Bachelor of Economics",
+                "specialty": "Banking and Finance",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "f56395de-af47-3f65-90e9-37d44ea07610",
+            "about": " Высококвалифицированный серверный разработчик Java/Kotlin. Основная область развития - финтех, но у меня также есть опыт в других областях, таких как логистика, путешествия и блокчейн. Я начинал проекты с нуля, а также принимал участие в проектах с долгой историей. Успешно спроектировал и внедрил новые API и системы, основанные на микросервисной архитектуре и реактивном подходе. Успешно интегрировались с различными внешними API как синхронно, так и асинхронно. Hard skills: Kotlin, Java Spring, Spring Boot, Spring Data, Spring Web, Spring WebFlux. MongoDB, Elasticsearch, PostgreSQL, MySQL, Hibernate, Redis. Kafka. gRPC, WebSocket. Kubernetes, Camunda. Blockchain. Git, GitLab, CI/CD. Maven, Gradle. ",
+            "key_skills": "Kotlin, Java Spring, Spring Boot, Spring Data, Spring Web, Spring WebFlux. MongoDB, Elasticsearch, PostgreSQL, MySQL, Hibernate, Redis. Kafka. gRPC, WebSocket. Kubernetes, Camunda. Blockchain. Git, GitLab, CI/CD. Maven, Gra",
+            "experienceItem": {
+                "position": "Java Developer",
+                "description": " Внедрение новых функций и поддержка CRM-продукта для микрофинансовой компании. Интеграция с внешней службой телефонной связи. Средний разработчик. Внутренний научно-исследовательский проект, основанный на технологии блокчейн. "
+            },
+            "educationItem": {
+                "faculty": "PhD in Biology, Mathematical biology, bioinformatics",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "3c4020e7-172f-3ed5-adc9-fe9a62097b26",
+            "about": null,
+            "key_skills": "SQL, Java, Git, JavaScript, ORACLE, Kotlin, DB2, Spring Framework, Hibernate ORM, PostgreSQL, ibm bpm",
+            "experienceItem": {
+                "position": "Siebel developer",
+                "description": " - Построение CRM-системы Siebel в соответствии с требованиями; - Создание интеграции CRM с банковскими системами; - Создание отчетов  P; Стек технологий: Oracle, JavaScript (eScript), PL/SQL, Bamboo (CI and CD tool) "
+            },
+            "educationItem": {
+                "faculty": "Department of Computer Science",
+                "specialty": "Informatics and computer technology",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "cc683ed5-8db5-32da-9eab-9433a539b3b5",
+            "about": " Я бэкэнд-программист с опытом создания веб-систем. Я специализируюсь на стеке технологий Java + Spring и микросервисной архитектуре, но также считаю, что фундаментальные знания в области информатики являются ключевыми во многих случаях. Я глубоко ценю искусство декомпозиции и анализа задач и то, как оно находит применение в компьютерном программировании. Таким образом, в свободное время я стремлюсь изучить различные его применения во встроенных системах, разработке оборудования, графических и физических движках и многом другом. ",
+            "key_skills": "Distributed Systems, Java, Kotlin, Algorithms, ScienceComputer , SQL, Python (Programming Language), Spring, Spring Boot, Git, Maven, Docker, JavaScript, Hibernate, C++, Google Cloud Platform (GCP), RabbitMQ, DevOps, Gradle, Kubernetes, Apache Kafka",
+            "experienceItem": {
+                "position": "Software Engineer",
+                "description": " Поставлено приложение и сервер для обработки видео в реальном времени и потоковой передачи с камеры Android-смартфона. Поставлено настольное приложение с пользовательским DRM, включающим инструменты для статистического анализа изображений с микроскопа. "
+            },
+            "educationItem": {
+                "faculty": "Bachelor of Science - BS, Computer Engineering",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "eb02a87d-d829-36bc-9006-11bceef0ffeb",
+            "about": " Разработка и поддержка микросервисов, написанных на java 8 / Kotlin, основанных на Spring Boot 2 и развернутых в виде контейнеров в Openshift. Интеграция с сервисами/микросервисами через REST, IBM MQ, SOAP, XML. Стек: java 8, kotlin, Linux, K8s, Openshift, EFK, Postgresql, IBM MQ, Redis, Spring Boot 2, Spring Integration ",
+            "key_skills": "Software Development, Java, Spring Boot",
+            "experienceItem": {
+                "position": "Системный администратор",
+                "description": " Задача: - Поддержка офисной инфраструктуры ПО: windows 7 "
+            },
+            "educationItem": {
+                "faculty": "Специалист, Математик, системный программист",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "add58503-f251-3291-8bc6-e57afe7fe86d",
+            "about": null,
+            "key_skills": "Java, Kotlin, Spring Boot, PostgreSQL, Flyway, Kafka, Docker, OpenShift, Kubernetes, Project Reactor, R2DBC, WebFlux, WebSocket, Rest, Tomcat, Cassandra, REST, MongoDB, RabbitMQ, Redis, Datadog, Gradle, gRPC, Jenkins, Gitlab",
+            "experienceItem": {
+                "position": "Java developer",
+                "description": " Система торговли секьюритизированными производными финансовыми инструментами "
+            },
+            "educationItem": {
+                "faculty": "Автоматики и электроники",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "c83fb1c9-2b90-3dab-9d53-05a883e3e0b7",
+            "about": null,
+            "key_skills": "Java, Kotlin, Spring Framework (MVC, Data), Spring Boot, Apache Kafka, Redis, Apache Maven, RabbitMQ, SQL, ORM, MS SQL, PostgreSQL, Oracle, Hibernate, Liquibase, REST, Git, Bitbucket, Jenkins, Atlassian Jira, Atlassian Confluence",
+            "experienceItem": {
+                "position": "Младший инженер-программист",
+                "description": " Проект: Обязанности: - написание бизнес-логики; - разработка GUI; - написание многоуровневых CRUD (sql) - запросов для указанных БД; - модификация различных фильтров посредством java- логики, hibernate queries; - работа с ORM, изменение сущностей; - построение отчетов в Birt (и, соответственно работа с Tomcat - для их просмотра); - Code-review; - модификация структуры БД (liquibase). Достижения: - Научился писать понятный, эффективный код и впитал тягу к тому, чтобы он был максимально оптимизирован; - Поставил рекорд по скорости создания отчета; - Оптимизировал запрос в БД из 2000 строк + сократил его до 600, - Предложил вариант реализации и выполнил на нём поставленную задачу. "
+            },
+            "educationItem": {
+                "faculty": "",
+                "specialty": "Курс Postgresql от школы \"Специалист\"",
+                "education_type": "Повышение квалификации",
+                "education_level": null
+            }
+        },
+        {
+            "uuid": "65b737a6-85cf-33e6-9475-e5164799b35b",
+            "about": " Гражданство - РФ Наличие военного билета - Военный билет есть. ",
+            "key_skills": "Java, Spring Framefowk (Web, Boot, Security, Data Jpa, Cloud), Web Flux, Hibernate ORM, Docker, PostgreSQL, Redis, Kafka, Apache Maven, Openshift, Couchbase, Kubernetes, Redis, GraphQL, Kaf, Repl, RabbitMQ, jUnit, Mockito, Jenkins, Git, SQL, MySQL, NoSQL, REST, Slf4j, MapStruct, Jira",
+            "experienceItem": {
+                "position": "Java Backend Developer",
+                "description": " Информационные технологии, системная интеграция, разработка программного обеспечения Обязанности: - Разработка нового функционала и микросервисов - Рефакторинг кода и оптимизация запросов в базу - Проведение код ревью - Написание SQL-запросов к БД -Настройка Spring Security Стек технологий: Java 11, Spring Boot, Spring Data Jpa (Hibernate), Spring Cloud, jUnit5, Mockito, Maven, Kafka, Kubernetes "
+            }
+        },
+        {
+            "uuid": "592ec449-a3b0-3a40-afdc-2cf78ef8291e",
+            "about": null,
+            "key_skills": "Java, Spring Boot, SQL, PostgreSQL, REST, Docker, Git, Java Spring Framework",
+            "experienceItem": {
+                "position": "Ведущий программист",
+                "description": " Проект представлял из себя озеро данных, т.е. там бигдата и её нужно было процессить, вот что бы процессить были ETL-инструменты. Но это инструменты нужно было конфигурировать для каждого конкретного случая, источник, таблички, расписание обработки и тд, и мы создали оркестратор, который всем этим управлял. Команда изначально сильна была в sql-е, в самих запросах и тд, поэтому на проекте очень много было и запросов и функций sql, которые мы расширяли и дорабатывали. Об общем составе команды: 24 человек, 15 senior специалистов, остальные middle и junior, все мы делились равномерно на команды по направлениям: ETL, Java, Аналитика, DevOps Кратко о повседневных задачах и обязанностях: Как разработчик: Улучшение работы оркестратора, добавление новых возможностей, таких как новые условия запуска (события, которые должны наступить, что бы запустить ETL-процесс) Оптимизация и расширение-sql запросов. Создание API для внесения конфигурации в оркестратор Создание REST-API для отображения информации в UI Исправление существующих багов. Поддержка пользователей. Как лид команды: Планирование работ на спринт для команды, согласование работ с менеджером проекта. Контроль выполнения работ. Обучение младших коллег. Поддержка приложения в ПРОДе. Участие в многочисленных митингах, где обсуждали текущие проблемы, будущие планы, встречи с начальством, встречи с пользователями и тд. PS. Лично моя команда состояла из 3-4 java-программистов, 1-2 (в зависимости планов на спринт) senior , 1 middle, 1 junior, 1-2 (в зависимости планов на спринт) junior системных аналитика, 1 (Senior, Middle, Junior в зависимости от сложности задач на спринт) веб разработчика. "
+            },
+            "educationItem": {
+                "faculty": "Информатика и вычислительная техника",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "148b41b3-3504-3550-9783-145eba1be802",
+            "about": " Нравится узнавать что то новое и пробовать это на практике. Средний уровень английского языка(могу спокойно читать документацию и нормально воспринимать речь на слух). Свободное время люблю проводить со своей семьей, и занимаюсь дрессировкой собаки. Люблю читать книги, в последнее время, правда, в основном техническую литературу. Весёлый и общительный человек, всегда отлично уживаюсь в коллективе самых разных людей. Без вредных привычек. ",
+            "key_skills": "Spring Framework, Java, Git, SQL, Hibernate ORM, PostgreSQL, Apache Maven, ООП, REST, Intellij IDEA, JUnit, Atlassian Jira, JPA, Работа в команде, Spring Boot, Spring Data, Spring Security, Spring Cloud, Kafka, ELK, Kotlin, OpenShift, Jenkins, Grafana, Prometheus, Kotlin coroutine, WebFlux, OpenApi, Docker",
+            "experienceItem": {
+                "position": "Java-разработчик",
+                "description": "В задачи системы входили такие функции как: заведение новых клиентов, их редактирование, хранение данных о клиентах компании, работа с договорами, регистрация договоров, подсчет оплаченных средств клиентами, вычет разницы по излишне уплаченным средствам, либо доплата в случае если метраж квартиры увеличился, так же система хранила в себе записи на осмотр помещений и исходя из статуса осмотра – выдавала необходимые шаблоны документов для подписания, интегрировалась с 1С бухгалтерией компании, на основе чего высылала счета на оплату клиентам, интегрировалась с банками на этапах подписания договора купли помещений, интегрировалась с Контуром для проверки благонадежности контрагентов, выгружала и направляла по подразделениям регулярные отчеты в зависимости от необходимости. На проекте использовались: Java 8, Spring Boot, Spring Data , Spring Security, Spring Cloud (Load Balancer, Eureka, Gateway), PostgeSQL, Kafka, Maven, Lombok, Jira, Swagger. В мои задачи входили: разработка нового функционала и его поддержка, проведение код ревью."
+            },
+            "educationItem": {
+                "faculty": "",
+                "specialty": "Информационные системы и программирование",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "6eaade34-b13c-3d17-a573-dfa786cbb0d5",
+            "about": " Инженер-программист с более чем 7-летним профессиональным опытом создания серверных приложений на всем пути от идеи, дизайна и архитектуры до реализации, тестирования и развертывания. Я заинтересован и имею опыт устранения неполадок, разработки серверных приложений, разработки инструментов и анализа требований к задачам. Мне удобно разрабатывать на Java в основном на бэкэнде. Всегда будучи высокоэффективным, мне удалось оказать существенное положительное влияние на каждый проект, которым я занимался, и я собираюсь продолжать в том же духе. ",
+            "key_skills": "Основные технологии: Java, Spring Boot 2, Spring Framework(Data, Security, MVC, AOP и др.), JPA/Hibernate, JDBC, GIT, Docker, Jenkins •  ы: JUnit, TestNG, Mockito, Wiremock • CI/CD: Gradle, Maven, Jenkins, TeamCity, GIT • Контейнеры: Docker, Kubernetes, OpenShift • Базы данных: Oracle, PostgreSQL • Серверы: веблогик, вебсфера",
+            "experienceItem": {
+                "position": "Java Developer",
+                "description": "Stack: Java 8, Spring Framework, Oracle 11g, Jenkins, Maven, JDBC, SOAP/REST, Weblogic, Hibernate, SVN, GIT, Rabbit MQ, Docker Обязанности: разработка и поддержка продуктов группы СНГ- Разработка новых продуктов- Анализ архитектуры приложений- Оценка трудозатрат- Поддержка клиентов в разворачивании и эксплуатации продуктов- Документирование и рефакторинг разрабатываемых продуктов Достижения: - Разработка архитектуры приложения по проверке карт, находящихся в черном списке- Миграция данных со старой версии интернет-банкинга на новый- Разработка приложения по онбордингу физ. Лиц- Разработка интеграции между локальными системами и АБС для осуществления переводов- Разработка приложения по генерации и печати PIN-конвертов- Внедрение функциональности 3D-Secure по локальным картам банка- Реализация гео-ограничений для клиентов интернет и мобильного банкингов- Поддержка read-only базы для веб-приложения- Реализация 2-х факторной аутентификации для входа в личный кабинет"
+            },
+            "educationItem": {
+                "faculty": "Диплом специалиста по инженерной специальности, Математик, системный программист",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "ff2a61d1-b70b-352b-8f08-ebc0a84de7ca",
+            "about": null,
+            "key_skills": "Java, MySQL, PostgreSQL, HTML5, CSS, Spring Framework, Spring Security, Spring Boot, Thymeleaf, Spring MVC, Hibernate ORM, Git, Apache Maven, Базы данных, ООП, RabbitMQ, MongoDB, ORACLE",
+            "experienceItem": {
+                "position": "Инженер",
+                "description": "Проектирование и разработка оборудования АСУ ТП для АЭС"
+            },
+            "educationItem": {
+                "faculty": "Двигатели летательных аппаратов(ядерные энергетические установки)",
+                "specialty": "диплом об окончании (Инженер по ядерным энергоустановкам и электроракетным двигателям)",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "7c95a4d3-d958-3e1e-9075-69eae00c5795",
+            "about": null,
+            "key_skills": "Java, Kotlin, Spring Core, Spring Boot, Spring Security, Spring Data Jpa, Spring AOP, JUnit, Mockito, Maven, Hibernate, PostgreSQL, Elasticsearch, Docker, Git, JasperReports",
+            "experienceItem": {
+                "position": "Инженер программист",
+                "description": " Проект: Система технического осмотра автомобилей Разрабатывал frontend и backend часть сервиса, а так же реализовал печатную форму с использованием библиотеки JasperReports и Elasticsearch. Стек проекта: Java 11, Spring (Boot, Web, Security, JPA, JDBC, Batch), PostgreSQL, MinIO, Swagger, JasperReports, Elasticsearch "
+            },
+            "educationItem": {
+                "faculty": "",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Бакалавр"
+            }
+        },
+        {
+            "uuid": "653dadb9-5c19-3f6a-8207-7e55e7db331a",
+            "about": null,
+            "key_skills": "Java, MS, SQL, Qt, C#, СУБД, Git, Проектный менеджмент, Transact-SQL, SQLite, Базы данных, Cистемы управления базами данных, Руководство коллективом",
+            "experienceItem": {
+                "position": "ведущий специалист отдела по управлению делами",
+                "description": " Администрирование СУБД MSSQL, написание приложений на C# и запросов для MSSQL "
+            },
+            "educationItem": {
+                "faculty": "Иформационных технологий",
+                "specialty": "Программное обеспечение вычислительной техники и автоматизированных систем",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "19c83c9c-d35b-365d-959b-7efe82a306ea",
+            "about": null,
+            "key_skills": "Java SE, Git, SQL, Hibernate ORM, Linux, Gson, Apache Maven, Gradle, ObjectWeb ASM, RxJava, Eclipse, JavaFX, EclipseLink, Mercurial, RabbitMQ, Redis, Atlassian Jira, REST, GraphQL, Elasticsearch, ELK, Kubernetes, Spring Boot, Kafka, Spring Cloud Feign, MongoDB, PostgreSQL, Docker, OpenAPI/SwaggerUI, Kotlin",
+            "experienceItem": {
+                "position": "Java-разработчик",
+                "description": "Консультации и помощь в освоении ООП, Java, Spring студентам"
+            },
+            "educationItem": {
+                "faculty": "Институт информационных технологий",
+                "specialty": "Прикладная информатика",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "14670cec-aedf-3aa7-aa4e-37486bca0aca",
+            "about": "Увлекаюсь музыкой, изобразительным искусством, литературой, активными видами спорта, пешим и водным туризмом. Люблю путешествовать и изучать культуру других стран. Полгода провел в Китае, как преподаватель английского. Свой уровень языка оцениваю на B1 - читаю тех.литературу, смотрю фильмы в оригинале. Быстро адаптируюсь к новым условиям, умею находить общий язык с людьми.",
+            "key_skills": "Java 11, Spring Framework, Hibernate ORM, PostgreSQL, ООП, MVC, JUnit, REST, JPA, liquibase, Spring data, Spring Security, Kafka, Java, SQL, Apache Maven, Apache Tomcat",
+            "experienceItem": {
+                "position": "Java Developer",
+                "description": " Обязанности: -Разработка новых функций и компонентов; -Рефакторинг существующей кодовой базы; -Работа в гибкой среде; -Выявление и устранение узких мест в производительности -Написание технической документации для справки и отчетности; -Использование передовых методов проектирования, повторное использование и написание эффективного исходного кода "
+            }
+        },
+        {
+            "uuid": "fd0ccbd0-3a58-3818-8691-98f31de17527",
+            "about": null,
+            "key_skills": "Java, Kotlin, Spring Framework, SQL, PostgreSQL, Linux, Hibernate ORM, Docker, Английский язык, Spring Boot, Gradle, Microservices, Kubernetes, JavaScript, Guice, ElasticSearch, Redis, ArgoCD, Helm, Terraform, AWS, Hazelcast, RabbitMQ, Kafka, Playwright, Cucumber, Apache Maven, CircleCI, Jenkins, GitlabCI",
+            "experienceItem": {
+                "position": "Research Engineer",
+                "description": "Participating in nuclear physics experiments (detection systems) MuSun, Paul Scherrer Institute, Switzerland Cell Gas, Forschungszentrum Jülich, Germany ATLAS, CERN, Switzerland PHENIX, Brookhaven National Laboratory, USA"
+            },
+            "educationItem": {
+                "faculty": "Радиофизический факультет",
+                "specialty": "Радиофизика и электроника",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "d1fde183-f35a-3a06-8f43-c14768e18f9c",
+            "about": " • Глубокое знание Java 8-17, принципов ООП, шаблонов проектирования, структур данных • Знаком с Spring Boot Framework, PostgreSQL, MongoDB, ClickHouse • Компетентен в системах сборки (Gradle, Maven), системе контроля версий (Git), платформах разработки (GitHub, GitLab, Bitbucket), сервере непрерывной доставки (TeamCity, Jenkins), платформе оркестровки (nomad, kubernetes). • Участие в программе наставничества, тренинговой программе, проведении собеседований • Опыт работы в распределенных командах по методологии Scrum. ",
+            "key_skills": "Java, Kotlin, Spring Framework, Spring Boot, Apache Kafka, Docker, PostgreSQL, WebFlux, Kubernetes, MongoDB, ClickHouse, Gradle, Maven, TeamCity, Jenkins, Git, GitHub, GitLab, Bitbucket, RESTful API, ELK Stack, GCP Google Cloud, ООП",
+            "experienceItem": {
+                "position": "Software engineer",
+                "description": " разработка интеграционных серверов и серверов для миграции данных оптимизация запросов покрытие кода тестами работа с высоконагруженными системами написание микросервисов проведение code review "
+            },
+            "educationItem": {
+                "faculty": "Информационных технологий и вычислительной техники",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "270ac4ca-75b8-343f-8b18-2f5ae400ba68",
+            "about": null,
+            "key_skills": "Java 8-17, Spring Framework, Hibernate ORM, Apache Maven, SQL, PostgreSQL, Git, Atlassian Jira, Docker, REST, ORACLE, Kafka, Spring Boot, JPA, Unit Testing, Gradle, Jenkins, Lombok, Liquibase, OpenShift, Atlassian Confluence, Microservices",
+            "experienceItem": {
+                "position": "Разработчик Java",
+                "description": " • Разработка корпоративных приложений для клиентов компании (банки, энергетика и т.д.) • Код-ревью. • Написание модульных и интеграционных тестов. • Написание документации • Участие в принятии архитектурных решений "
+            },
+            "educationItem": {
+                "faculty": "Автоматизированных систем, Автоматизация и управление",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "a5187b56-f86c-3996-8797-57d178821222",
+            "about": null,
+            "key_skills": "Java 11,14 Spring Core, Spring Boot, Spring Data, Spring Reactor, mTLS/SSL, AWS S3, DevOps, Jenkins, Git, Oracle Data Base, Groovy, gRPC, OpenShift, HTTP, Docker, OracleBD, Kafka broker, Redis MQ",
+            "experienceItem": {
+                "position": "Java Developer",
+                "description": " Команда разработчиков транспортной файловой системы. Основное приложение — модульная система передачи данных между командами внутри банка. Приложение основано на фреймворке Apache Camel. Дополнительные приложения Конструктор и Конфигуратор для генерации интеграций и бизнес-маршрутов Разработка новых компонентов основного приложения для взаимодействия по gRPC FTP SFTP S3. Рефакторинг и разработка нового функционала вспомогательных модулей основного приложения TFS. Поддержка устаревшего кода. Модификация функционала вспомогательных приложений Конструктора и Конфигуратор в разделах frontend и backend Создание и настройка процессов CI/CD и автоматизация процедур развертывания. Внедрение функционала фронтенд-сервисов в рамках политики релиза проекта; Оценка сложности проектирования, планирования и работы в спринтах (Agile Scrum). "
+            },
+            "educationItem": {
+                "faculty": "",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "d9847b13-dc30-36e7-8d75-c632495a7eec",
+            "about": null,
+            "key_skills": "Git, MySQL, PostgreSQL, Java, SVN, Java SE, JavaScript, REST, SOAP, Adobe Flash, Apache Maven, Gradle, Flash Actionscript, Kotlin, Kotlin-JS, JUnit, HTML, Linux, Intellij IDEA, Разработка ПО, HTTP, SQL, CSS3, HazelCast, Redis, Серверное программирование, EJB, JPA, RabbitMQ, Nats MQ",
+            "experienceItem": {
+                "position": "Web-developer",
+                "description": "Setup and support of an office PC. Development of the organization's website: development of design, structure, programming. CMS \"e107\" was used to develop the site. Development of a data output service for a tracking system for moving vehicles."
+            },
+            "educationItem": {
+                "faculty": "Computer science",
+                "specialty": "Bachelor",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "4aac459a-0536-355b-ad4a-834acf6cc4cf",
+            "about": " Уверенное знание алгоритмов и структур данных. Соблюдаю дедлайны и имею опыт оценки временных затрат для задач. Коммуникабельный, ответственный, стрессоустойчивый, внимательный к деталям, неконфликтный и целеустремленный. Code Wars - ",
+            "key_skills": "MySQL, Java, Intellij IDEA, Redis, Kafka, Git, ООП, JavaScript, PHP, Laravel, Postman, Vue JS, M3, StreamServe, SQL, SVN, XML, MS SQL, Java EE, Spring Framework, JUnit, Apache Maven, Gradle, Docker, Jenkins, Groovy, Grails, jQuery, AngularJS, ",
+            "experienceItem": {
+                "position": "PHP developer",
+                "description": " junior remote BackEnd Developer backend разработка для сайта крупной торговой организации на PHP framework laravel и 1С Битрикс. Создание REST API и его тестирование при помощи Postman. Доработка и поддержка front end для крупной Гос организации на Java script и Vue JS. Мои достижения: За один день освоил Vue JS, чтобы доделать проект для крупного заказчика, так как предыдущий разработчик покинул компанию. Стек: PHP, PHP Laravel, 1C Битрикс, Postman, Java script, Vue JS, PHP storm, Sub , Git, Docker, Jenkins. "
+            },
+            "educationItem": {
+                "faculty": "Общетехнический 2",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "73592479-12bf-38d4-84f0-91fe33518b47",
+            "about": null,
+            "key_skills": "Software Architecture, Design Patterns, Java, Spring, kotlin, weblux, ",
+            "experienceItem": {
+                "position": "Software Developer",
+                "description": " Навыки: Data Modeling · Software Development · Apache Camel · Oracle Database · Programming · Java · JavaScript · PL/SQL · Maven "
+            },
+            "educationItem": {
+                "faculty": "Master's degree, Mathematics",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "522e9bea-52e1-3e3c-aa9f-e97e554195f7",
+            "about": "Программировать начал еще в школе с попыток сделать с другом игру на Basic. Но тогда это показалось слишком сложным и крепко связанным с математикой, в которой я был не особо силен. Поэтому выбрал для себя гуманитарную специальность, что не мешало мне самостоятельно освоить основы веб-программирования и начать делать сайты: сначала для себя и друзей, а потом и на заказ. Также я заочно закончил технический ВУЗ, вдохновленный своими успехами. Потоковое \"клепание\" сайтов скоро наскучило, я оставил профессию на время, вернувшись на гуманитарную стезю работы психологом. Периодически начинал и бросал изучать разные языки, но остановился, в итоге, на Java. Меня подкупили обилие литературы, учебных видео, а также проработанная документация и актуальность языка. Так я получил первую работу в качестве Java-разработчика и хочу дальше развиваться в этой сфере.",
+            "key_skills": "Java, Spring Framework, Git, SQL, Hibernate ORM, PostgreSQL, Apache Maven, ООП, Intellij IDEA, JUnit, MySQL, Trello, MVC, HTML, ActiveMQ, Camel, Camunda, Apache Kafka",
+            "experienceItem": {
+                "position": "Java-разработчик",
+                "description": "Наша команда разрабатывала систему электронной очереди, построенную в виде нескольких взаимодействующих между собой веб-сервисов. Идея состояла в том, чтобы предоставить работникам компании заказчика максимальную свободу в обслуживании заявок клиентов. Эту свободу обеспечивала возможность регистрироваться в приложении через браузер на любом устройстве. Персонал мог использовать смартфоны и беспрепятственно перемещаться по офису, торговому залу, складу и т.д. Я отвечал за авторизацию пользователей в приложении, а также разрабатывал основной функционал «админки»: проектировал классы, настраивал их связь и отображение в базе данных, писал SQL- и HQL-запросы. Интегрировал сервисы с внешними API (Google Cloud, OpenStreetMap), разрабатывал unit-тесты. На проекте использовались: Java 8, Spring (Boot, Web, Security), Hibernate, PostgreSQL, Maven, Lombok, JUnit, GitLab, ActiveMQ. "
+            },
+            "educationItem": {
+                "faculty": "Прикладная информатика (в экономике)",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "fac1867b-8ca6-3d94-988e-7dab0d465b7f",
+            "about": " Репозитории java проектов: - Поисковый движок:  -Магазин: - Консольное приложение генерация plantuml: Сильные стороны: - Аналитичность; - Методичность; - Инициативность; Профессиональные навыки: - Java 8, 11 - Spring: Core, MVC, Security, Data, Test, Batch, Boot, Cloud - Нотации: BPMN, UML, ERD; - Знание языков: Java, SQL, JS, HTML, CSS; - БД: PostgreSQL, MySQL, Oracle DB; -SQL: работа со сложными запросами SQL, оптимизация запросов, создание объектов БД; - DevOps: Git, Maven, Docker; ",
+            "key_skills": "Java, Java Spring Framework, Проектирование баз данных, Проектирование архитектуры приложений, Управление разработкой, Разработка решений по интеграции, SQL, PostgreSQL",
+            "experienceItem": {
+                "position": "Бизнес аналитик / Эксперт предметной области",
+                "description": " Проект: Автоматизация процесса пополнения распределительных центров Обязанности: - Инициация изменений в ПО и бизнес-процессах для повышения эффективности управлением спроса и пополнения; - Разработка технических заданий на изменение ПО; -  ирование ПО, в том числе написание сценариев тестирования на основании спецификаций; - Разработка методических материалов и проведение тренингов; - Анализ процессов прогнозирования, планирования и пополнения распределительных центров; - Оценка эффективности процессов очистки исторических данных, выявление причин снижения качества прогноза; - Оценка эффективности процессов планирования и пополнения распределительных центров; - Организация и проведение пилотных проектов; Личные достижения: - Внедрил функциональность прогнозирования расчетного страхового ТЗ (товарного запаса). Функциональность позволила снизить избыточный товарный запас (15%) по малооборачиваемым товарам; "
+            },
+            "educationItem": {
+                "faculty": "Финансов и кредита",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "6f48fd66-a056-3172-af60-632f22844934",
+            "about": null,
+            "key_skills": "Java, Spring Framework (Boot, Data, Security, Cloud, Consul), RabbitMQ, ActiveMQ, Kafka, IBM MQ, Redis, PostgreSQL, Apache Maven, Gradle, Docker, Oracle Database, Hazelcast, TeamCity, Jenkins, OpenShift, Act ti, XML, JSON API, REST, Nginx, Apache Tomcat, JSP, Hibernate ORM, NoSQL, MSSQL, Kubernetes, CI/CD, Gitlab, REST API, IDEA",
+            "experienceItem": {
+                "position": "Руководитель проекта / разработчик",
+                "description": "Обязанности: - разрабатывал карточки контрагентов, клиентов; - разрабатывал печатные формы банковских анкет, договоров, актов, расходных и приходных ордеров в ПО Fastreport; - администрировал облачные сервера на базе Windows Server 2008 R2; - администрировал MS SQL 2008; - работал/переписывался с вендором (Terrasoft CRM); - подготавливал техническую документацию: разработка Технического задания; - проводил оценку трудозатрат; - поддерживал программное обеспечение, дорабатывал и исправлял ошибки; Опыт: - практическое знание Pascal; - работа с Web приложениями: Установка MySQL - устанавливал движки Joomla, Wordpress - устанавливал Apache; - разработка Web форм; - работал с Microsoft debugger; - основы реляционных БД, знакомство с SQL; - чтение и понимание технической документации на русском и английском языках; - хорошие коммуникативные навыки; - аккуратность, внимательность, умение работать в команде"
+            },
+            "educationItem": {
+                "faculty": "Звукотехник",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "feedc674-8547-35d0-9f63-fd6a3d3fedcd",
+            "about": null,
+            "key_skills": null,
+            "experienceItem": {
+                "position": "Инженер 1 категории",
+                "description": "Занимался такими задачами, как: - Составление сметы и заявок - Ведение документации, составление договоров - Руководство ремонтно-эксплуатационным персоналом до 15 человек - Работа с контрольно-измерительными приборами - Участие в пуско-наладочных работах - Составление ТЗ, чертежей для документации - Подготовка отчетности о выполнении планов - Оформление исполнительной документации - Приемка и сдача в эксплуатацию законченных объектов - Проверка соблюдения строительных правил - Проверка объемов работ на соответствие сметной документации, бюджетным затратам, рабочим чертежам - Технадзор за выполнением строительных работ"
+            },
+            "educationItem": {
+                "faculty": "Электротехника и механотроника",
+                "specialty": "Электроэнергетические сети и электрооборудование",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "5c8ce3e9-f9dd-3ed2-b044-d55c2957937e",
+            "about": null,
+            "key_skills": "MySQL, ООП, PostgreSQL, Базы данных, Java, Java Spring Framework, Junit, XML, Git, Hibernate",
+            "experienceItem": {
+                "position": "Junior java dev",
+                "description": null
+            },
+            "educationItem": {
+                "faculty": "Информационных систем и компьютерных технологий",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "fbab422e-7e0b-38d2-a7bc-cc7286858c10",
+            "about": "4+ years in java programming, I have expirience with Kafka, SQL NoSQL databases and BigQuery. Aimed at teamwork, easy-going and open-mined for new approaches. Looking for remote work. English: Intermediate.  ",
+            "key_skills": "Java SE, MySQL, Git, Intellij IDEA, PostgreSQL, Spring Framework, Swagger, MapStruct, Hibernate ORM, MongoDB, BigQuery, Jenkins, Kibana, Kafka, Docker",
+            "experienceItem": {
+                "position": "IT-инженер",
+                "description": "Помощь разработчикам в поиске и устранении ошибок на информационной системе. Установка новых версий приложений и компонентов информационной системы."
+            },
+            "educationItem": {
+                "faculty": "Механико-математический факультет",
+                "specialty": "Математика. Компьютерные науки",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "1ed1795c-43b2-304e-8386-bf53d0ebec18",
+            "about": " Обожаю изучать что-то новое и сложное, готов к неожиданным встречам с неизвестным, чтобы исследовать это до смерти. Вкладываю все свободное время в саморазвитие в области технологий и разработки. И играю на гитаре, само собой. ",
+            "key_skills": "Планирование, RabbitMQ, Построение команды, RESTful API, Управление разработкой, Redis, Автоматизация процессов, Java Spring Framework, Hibernate, PostgreSQL",
+            "experienceItem": {
+                "position": "Java Developer",
+                "description": " Разработка и поддержка легаси, рефакторинг "
+            },
+            "educationItem": {
+                "faculty": "Институт компьютерных наук и технологий",
+                "specialty": null,
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "0f6a912b-c462-3bec-a632-c219f51e0b3c",
+            "about": " На программирование обращал внимание еще со школы, посещая кружок по информатике. Вплотную подошел к сфере в 2016 году когда заинтересовался курсами по HTML и CSS. Изучая область глубже стал понимать, что интерес вызывает не разработка пользовательского интерфейса, а желание понять и разобраться с логикой работы приложения то есть с тем, что скрыто от глаз, и находится на стороне сервера. Ознакомившись с ЯП бэкенда сразу же понравился JAVA. Он привлек своей стабильностью, востребованностью, наличием множества площадок и ресурсов для самостоятельного изучения языка, а также поддержки со стороны большого сообщества java-разработчиков. В результате обучения в 2019 году получил свою первую работу java-разработчика. Конечно же навыки и знания в разработке продолжаю совершенствовать по настоящее время, здесь нет и никогда не будет предела для совершенства). Есть большое желание получить опыт работы в международных компаниях и проектах c современным стеком технологий. После окончания юридического университета в 2008 году работал по специальности. В 2017 году прошел обучение с присвоением квалификации юрист-переводчик (английский язык). Люблю активные виды спорта, нравится открывать для себя новые горизонты и браться за решение нестандартных задач. ",
+            "key_skills": "Java, Spring Framefowk (Web, Boot, Data), Docker, Kafka, RabbitMQ, OpenShift, Maven, Hibernate ORM, Oracle, PostgreSQL, MongoDB, Redis, Hazelcast, gRPC, MySQL, SQL, JUnit, Git, Gitlab, Bitbucket, Github, Jira, Slack, Trello, REST, ООП, OpenShift.",
+            "experienceItem": {
+                "position": "Java Developer",
+                "description": " Проект: занимался разработкой системы мониторинга выполнения показателей KPI сектором менеджмента трейдинговой компании. Проект предусматривал полный и оперативный контроль со стороны руководства компании за выполнением ключевых показателей эффективности работы со стороны линейных менеджеров по работе с контрагентами в рамках договорных отношений. Обязанности: разработка сервисного слоя с реализацией бизнес-логики, проектирование DTO и сущностей БД, unit-тестирование, оптимизация функционала, позволяющего оперировать информацией, хранящейся в БД (в том числе изменение и получение данных). Стек технологий: Java 8, Spring Framefowk (web, boot, data), Hibernate ORM, MySQL, JUnit, Maven, Github, Kotlin Способы коммуникации: Живое общение, Slack, Trello "
+            },
+            "educationItem": {
+                "faculty": "Следственно-криминалистический институт",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "37cba700-eed6-3018-bad6-f720f8217aeb",
+            "about": "Experienced Java Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Hibernate, Spring Framework, Java, HTML, and JavaScript. Strong engineering professional with a Engineer's degree focused in Biomedical/Medical Engineering from Samara State Aerospace University.",
+            "key_skills": "Java, Spring Framework, Spring Boot, Oracle Database, Hibernate, PostgreSQL, Maven, GitLab, Tomcat, SQL, Docker, Kubernates, Jira, ConfluenceHTML, Enterprise JavaBeans (EJB)",
+            "experienceItem": {
+                "position": "Diploma",
+                "description": " The topic was one channel cardiograph. It was real device that took patient’s cardiogram and transmitted it to the computer via Bluetooth. It used to be quite new technology. BlueNiceComIII module was used to reach such opportunity. The main parts of cardiograph contained instrumental amplifier, analog to digital converter, controller for managing all parts of the device, different secondary components and bluetooth module. Computer program to display data was also developed. Program for controller was written on the controller specific kind of assembler. Computer program was also written on the assembler for Win32. "
+            },
+            "educationItem": {
+                "faculty": "Engineer's degree, Biomedical/Medical Engineering",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "3e9618c4-7ed0-35d7-9c4c-71c06361fc21",
+            "about": null,
+            "key_skills": "Java 17/11, Spring Boot, Microservices Architecture, RESTful APIs, Hibernate, PostgreSQL, MongoDB, Apache Kafka, Apache, Solr, ELK, SAP Hybris, Amazon S3, Redis, SQL / NoSQL.",
+            "experienceItem": {
+                "position": "Flutter Developer",
+                "description": null
+            },
+            "educationItem": {
+                "faculty": "Bachelor's degree, Computer Science and Software Engineering",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "da445603-1f91-341f-93da-6b29c95aa35c",
+            "about": null,
+            "key_skills": "Java, Java Core, Java EE, Spring Framework (Boot, Web, Data), Kafka, Apache Maven, Jenkins, PostgreSQL, SQL, Hibernate ORM, Docker, liquibase, JUnit, Apache Tomcat, Swagger, Microservices, Lombok, Unit Testing, BitBucket, Actuator, Prometheus, Grafana, JPA, CI/CD, REST, JDBC, Git, ELK, Jira",
+            "experienceItem": {
+                "position": "Java-разработчик",
+                "description": "Участие в разработке проектов: - Модуль ЕИСЖС (Единая информационная система жилищного строительства). Личный кабинет арбитражного управляющего. - Центральное хранилище данных единого регистра застрахованных лиц. Система миграции данных в единое хранилище ГИС ОМС. Обязанности: - Участие в обсуждении решений, применяемых для реализации бизнес требований заказчика. - Реализация нового и изменение существующего функционала в соответствии с требованиями заказчика. - Настройка интеграции с внешними системами. - Покрытие кода тестами - Устранение дефектов, рефакторинг и оптимизация кода. Стек технологий: - Java 8 - Spring Boot - Spring Data - Docker - Kafka - Jenkins - Maven - ELK - Jira"
+            },
+            "educationItem": {
+                "faculty": "Факультет информационных систем в экономике и юриспруденции",
+                "specialty": "Информационная безопасность телекоммуникационных систем",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "96354edc-4225-333b-9c37-df48057fcaf8",
+            "about": null,
+            "key_skills": "Java, Spring Framework, Git, Kafka, Linux",
+            "experienceItem": {
+                "position": "Разработчик",
+                "description": "Java 8/11 Spring: Spring Boot, Spring Data MyBatis, Hibernate БД: Oracle, Postgre и ClickHouse Maven WebLogic"
+            },
+            "educationItem": {
+                "faculty": "Факультет информационных технологий",
+                "specialty": "Информатика и вычислительная техника (программное обеспечение информационных технологий)",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "f111eaab-2416-33f5-8a95-8ec11e8485c4",
+            "about": null,
+            "key_skills": "Java, Groovy, Python",
+            "experienceItem": {
+                "position": "Java Developer",
+                "description": null
+            },
+            "educationItem": {
+                "faculty": "Инноваций и высоких технологий; ФИВТ Аэрофизики и космических исследований; ФАКИ",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "c70de373-9f3a-3647-ab66-f25e98c29409",
+            "about": null,
+            "key_skills": "Java, Spring Framework (Data, MVC, Security), Spring Boot, Kafka, Oracle, Docker, PostgreSQL, Hibernate, Maven",
+            "experienceItem": {
+                "position": "Industrial Engineer",
+                "description": " Разработка технологических процессов механической обработки и сборки элементов авиационных двигателей и наземных установок. Подбор оборудования, оснастки, измерительных инструментов, режимов резания. Подготовка технических заданий. Проведение измерений на входном контроле, при производстве и приемочном контроле с использованием универсальных и специальных средств измерений. Работа с математическими моделями в cad (autocad, inventor). "
+            },
+            "educationItem": {
+                "faculty": "Industrial Engineering Bachelor",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "0825069f-c8ee-3ca9-b4f2-753b7a85688a",
+            "about": null,
+            "key_skills": "Java, SQL, Apache Maven, PostgreSQL, Docker, Spring Boot, Gradle, Junit, Hibernate, Kotlin",
+            "experienceItem": {
+                "position": "Java разработчик",
+                "description": " разработка backend части на Java с использованием Spring Boot 2, Spring MVC, Spring Data REST, Spring Data JPA, MapStruct. Монолит работа с DevOps частью, настройка джоб Jenkins по триггерами BitBucket, джоб по пушу в docker registry, взаимодействие со специалистом DevOps для настройки CD и Red Shift. разработка схем базы данных для приложения, разработка вспомогательной утилиты для парсинга Excel с помощью Apache POI и Lombok для формирования скриптов SQL, заполняющих базу данных PostgreSQL правка мелких багов frontend части на ReactJS "
+            },
+            "educationItem": {
+                "faculty": "Нефтетехнологический",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "da6466e6-0b6d-36aa-adbf-9f0e4fdd6b3f",
+            "about": null,
+            "key_skills": "Java, Java Spring Framework, Базы данных, Высоконагруженные системы, JavaScript, Python, Linux, Docker, Kubernetes, Golang",
+            "experienceItem": {
+                "position": "Программист",
+                "description": " разработка и поддержка систем сбора, контроля и учета данных с удаленных нефтяных качалок до пультов управления. дальнейшая передача данных по защищенным каналам через gsm и lan\\wan данных в центральный штаб. обслуживание нефтегазового оборудования - компьютеров и специфического ПО. "
+            },
+            "educationItem": {
+                "faculty": "механико-математический",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "d9fffe2b-cba9-3ff2-bd47-b8bfc48cbe89",
+            "about": null,
+            "key_skills": "Java, Regexp, PostgreSQL, Git, Apache Maven, JUnit, ООП, MySQL, SOAP, Atlassian Jira, Intellij IDEA, Kafka, Redis, ElasticSearch, Java 8, IBM MQ, Spring Framework, Bash, Bamboo, React, JavaScript, Gitlab",
+            "experienceItem": {
+                "position": "Java-разработчик 1ой категории",
+                "description": " Проект:   Retail Group Задачи выполняемые на проекте: Написание кода на java 7-8, выполнял скрипты на базе данных postgres для работы с данными и логами, покрытие кода юнит тестами, работа с оборудованием вместо стендов прошивка с установкой ПО. Весь написанный код тестировали непосредственно на настоящем оборудовании в виде кассовых аппаратов, прайс-чекеров, принтеров для чеков.Проведение код ревью и участие в командных активностях Достижения: За время работы реализовал функционал считывания штрих кода прайс чекера товара Реализовал модуль печати чеков кассового аппарата Подчинение по структуре: Tech Lead Стек: Java 5 m le, Java 7-8, Postgres, тестирование junit4, spring boot, redis Причина увольнения: Переезд в МСК "
+            },
+            "educationItem": {
+                "faculty": "Иээ",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "f6f396d8-5527-3610-8d0d-13768d9b3ec9",
+            "about": null,
+            "key_skills": "Java 17, Spring Boot, PostgreSQL, Redis, Reactor, GRpc, Kafka, ELK, Prometheus, Grafana, Gradle, Docker, Consul, JUnit, Mockito, Git, Intellij IDEA",
+            "experienceItem": {
+                "position": "Java Developer",
+                "description": " Работа над MMORTS Art of War 3 . Создание и сопровождение модулей бизнес-логики Разработка инфраструктурных модулей Мониторинг ошибок Оптимизация SQL-запросов, устранение утечек, поиск узких мест "
+            },
+            "educationItem": {
+                "faculty": "Физико-математический",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "9a9b0a97-3514-3137-b8b8-129474b24528",
+            "about": "I’m a backend developer, with more than 5 years of experience of working with Java or Kotlin applications. I'm passionate about writing good code, development of complex systems and solving hard problems. I love seeing my work results, and have influence on product development decisions. I always take full responsibility for my code, always follow the \"boy scouts' rule\" and I want to work in a company with likeminded employees. You can reach me faster via telegram app ",
+            "key_skills": "Java, SQL, Spring Framework, RabbitMQ, Spring boot, Spring Cloud, Spring Data, Redis, MongoDB, Kafka, Docker, TDD",
+            "experienceItem": {
+                "position": "Full stack developer",
+                "description": "Developing HCS system"
+            },
+            "educationItem": {
+                "faculty": "ФСУ",
+                "specialty": "Программная инженерия",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "53a2a38b-4fef-3d65-8d6d-818d5e80dbfa",
+            "about": "Впервые плотно познакомился с программированием в 2013 году, играли с товарищем в майкрафт и решили создать свой сервер, далее было очень много различных доработок и нововведений в работу сервера. Далее изучал джаву скорее на любительском уровне, в 2019 году, мой товарищ пригласил меня в свою компанию в которой уже работал на позиции Java Developer. В течение полугода я плотно занимался и изучал материалы на Stepik, Хабр, JavaRush и тд. Далее я попал на собеседование в эту компанию и успешно его прошел. Работал на аутстаффе на проекте с микросервисами. Люблю путешествовать и рыбачить. Также люблю приятную обстановку в коллективе, где коммуникация построена на взаимоуважении и взаимопомощи. Нравится решать сложные технические задачи и помогать коллегам кому нужен совет.",
+            "key_skills": "Java, Git, SQL, MySQL, ООП, PostgreSQL, Spring Framework, XML, Apache Maven, Bootstrap, Английский язык, MVC, REST, ORACLE, JUnit, Spring Boot, Spring MVC, JPA, Hibernate ORM, Docker, Apache Kafka, Gradle, Spring Data, Spring Cloud, Kubernetes, Spring AOP, Jira, Lombok, Actuator, Swagger",
+            "experienceItem": {
+                "position": "Java-Developer",
+                "description": "Обязанности: - Работал в команде из 7 человек над сервисами для ЧОП, - Занимался разработкой, добавлением функционала, обслуживанием, дебагом JAVA приложений, - Модульные тесты, - Интеграционные тесты, - Составление JPQL/HQL/SQL-запросов, - Написание docker-file и docker-compose, - Реализация функциональности отказоустойчивости сервиса, - Настройка потока сообщений - Имитация запросов клиента и шаблонов Rest, - Реализация слоя бизнес-логики от контроллера до бд - Помогал коллегам решить таски, если они обращались Технический стек: Java 8, 11 Spring (boot, web, cloud, data) WebFlux PostgreSql Kubernetes Docker Hibernate Liquibase Kafka ELK Prometheus, Grafana Swagger"
+            },
+            "educationItem": {
+                "faculty": "Экономика",
+                "specialty": "Экономика предприятия",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "5b52397d-7c55-3f10-82cb-3797709a51e5",
+            "about": null,
+            "key_skills": "Java, Spring Framework + WebFlux, SQL, Git, PostgreSQL, Hibernate ORM, Kafka, JDBC, Kubernetes, Openshift, RabbitMQ, Zipkin, Swagger, Maven, Redis, ELK",
+            "experienceItem": {
+                "position": "Java-разработчик",
+                "description": " Проект: CRM Обязанности: - Разработка Backend части приложения - Оптимизация и рефакторинг существующего кода - Ревью кода - Юнит тестирование Стек технологий: - Java 11 - Spring framework - Postgres - Hibernate - RabbitMQ - Zipkin - Swagger - Maven "
+            }
+        },
+        {
+            "uuid": "f4f84f9b-6c7a-366d-b8b4-84b0e6f337c7",
+            "about": null,
+            "key_skills": "Docker, Java core, XML, NoSQL, PostgreSQL, JDBC, Spring Boot, Kubernetes, Apache Kafka, Linux",
+            "experienceItem": {
+                "position": "Инженер - технолог",
+                "description": "• Разрабатывал технологическую документации на основе отраслевых стандартов ,действующих в подразделении. • Оформлял технологические предписания на дополнительные работы по устранению отклонений от требований конструкторской документации. • Проводил математические расчёты для отработки новых чертеже в производство • Принимал участие в технических мероприятиях по усовершенствованию технологии изготовления — Проводил деталировку и непосредственно работал с конструкторской документации в NX-12,Kompas,Autocad —Разрабатывал технологические процессы и работа с электронным моделями в системе Teamcenter EUC 11"
+            },
+            "educationItem": {
+                "faculty": "Факультет компьютерных и инженерных наук",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "f61558f7-5769-37e0-b03d-80ff86d0a6bf",
+            "about": null,
+            "key_skills": "Java, Spring Framework, SQL, PostgreSQL, Hibernate ORM, Git, Apache Maven, Kafka, REST, JUnit, Microservices, Apache Kafka, NoSQL, Redis, Kubernetes, Cassandra, API, Docker, JDBC, Spring Boot, Hibernate, Lombok, REST API",
+            "experienceItem": {
+                "position": "Java Developer",
+                "description": "Разработка, внедрение и поддержка CRM системы в торгово-логистической компании Проектирование RESTfull API в соответствии с Best practice; Проведение code-review; Проведение unit-тестирования"
+            },
+            "educationItem": {
+                "faculty": "",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "87093480-2ef4-3d14-a30e-0c4cf41b93da",
+            "about": "Не курю, женат, двое детей, возможны командировки. Хобби: путешествия, спорт, операционные системы, технологии. Личный автомобиль, права категории «В».",
+            "key_skills": "PostgreSQL, Linux, Git, java fx scene builder, Работа с базами данных, Английский язык, Написание статей, Java8, Java mission control, Docker, Jenkins, Perl, RegExp, awk, Apache Tomcat, Oracle 10G",
+            "experienceItem": {
+                "position": "Инженер-программист",
+                "description": "• поддержание локального сервера документов • работа в графических редакторах – Photoshop, CorelDraw (подготовка баннеров и плакатов постов и наружной инфографики) • работа с FreeBSD (установка администрирование системы) • системное администрирование автоматизированных рабочих мест штаба СЗО • боевые дежурства, • ведение базы данных • командование личным составом при проведении обучающих мероприятий."
+            },
+            "educationItem": {
+                "faculty": "АСУ",
+                "specialty": "Математическое обеспечение и администрирование информационных систем",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "ebcd86ef-6e1f-39cf-8af3-85adaec6d3b3",
+            "about": "Developed microservices, (Spring Framework, Spring Boot, JHipster, Thymeleaf, gRPC, REST, SSO, SAML, Apache POI, PdfBox, Minio, Neo4j, MemSQL, MariaDB, Docker, Kafka) Created new microservice from scratch on JHIpster/Spring Boot Developed JHipster gateway, SSO authentication Developed gRPC web-services Developed REST-services",
+            "key_skills": "MySQL, Java, JavaScript",
+            "experienceItem": {
+                "position": "Full Stack Engineer (Java/Javascript)",
+                "description": "Developed high-load services (Netty, Redis)Developed web-services (Spring Framework, JS)Developed remote deploy system (Spring Framework, JS)"
+            },
+            "educationItem": {
+                "faculty": "React.js Developer",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "ad355c5f-fa08-3d9e-96e2-73b49d1a390a",
+            "about": " Java Backend Developer Опыт разработки веб-приложений на основе Spring Framework, опыт разработки RESTfull веб-сервисов Знание ООП принципов и шаблонов проектирования Опыт работы с базами данных PostgreSQL, Oracle Опыт работы в CI/CD окружении (Maven, Gradle, Git, SonarQube, Gerrit, Bitbucket, GitLab, Jenkins) с контролем качества кода (SonarQube, code review, code coverage, code convention) Небольшой опыт фронтенд-разработки на основе стека HTML/CSS + JavaScript Опыт в Java обучении (построение учебных процессов и подготовка материалов, координирование студенческих групп, менторство по Java) Опыт управления небольшой командой в сфере Java обучения Опыт проведения технических интервью уровня Student/Junior/Middle Английский на уровне B1-B2, в процессе повышения Умение работать в команде, хорошие отзывы от коллег по проекту и внепроектным активностям Амбициозный, есть стремления к профессиональному росту, мотивированный к изучению новых технологий, фреймворков, методологий ",
+            "key_skills": "Java, Java Spring Framework, Hibernate, PostgreSQL",
+            "experienceItem": {
+                "position": "Middle Java Developer",
+                "description": " August-2021 – Till now (April-2022) О проекте – CRM система, разрабатываемая крупным иностранный заказчиком. Стек: CI/CD : Docker, Kubernetes, Tomcat, Jenkins, Jira, Bitbucket, Confluence, SonarQube, JaCoCo Database : PostgreSQL Development : Java 8, Spring Core, Spring Data, Spring MVC, Spring Boot, Hibernate, Redis, RabbitMQ, JUnit 4, Mockito, PowerMock Tools : Git, Gradle, IntelliJ Idea, Postman, Dynatrace, Splunk, pgAdmin Зона ответственности на проекте – backend developer: Участие в разработке нового функционала Фиксинг багов (ошибки в коде, перформанс, data corruptions) Поддержка качества кода (код ревью, написание юнит тестов, SonarQube) Участие в процессах Scrum (дейли, планнинги, грумминги, ретро) Коммуникация с заказчиком (sharing knowledge, демо, общение с командой на стороне заказчика: dev team, PO, architect) September-2021 - Till now (April-2022) О проекте – Java обучение (в основном в зоне ответственности внешние Java курсы для Рязани и других локаций по России) Стек : Environment : внутренние системы - Interview portal, Autocode, Examinator, Learn, Knowledge Base; Git, GitLab, Jira, IntelliJ Idea, MindMap Зона ответственности на проекте – coordinator / team lead / mentor: Определение с PO основных направлений развития внешних курсов по Java; Кросс-локационная адаптация — обмен знаниями и образовательными практиками в разных локациях, поддержка учебного процесса по внешним курсам в разных локациях; Руководство командой разработчиков – разработка и поддержка репозиториев практических заданий, улучшение курсов (теория/структура/тесты); Руководство командой менторов – стаффинг новых менторов, проведение онбоардингов, поддержка во время обучения; Координация студенческих групп – онбоардинг, поддержка, проведение лекций, QAсессий; Проведение и принятие решений по техническим интервью; Поддержка ресурсов для переиспользования накопленного опыта. May-2020 - May-2021(Approximately) О проекте – учебный проект на внутренних курсах EPAM, онлайн библиотека Стек : CI/CD : Tomcat, Jenkins, Jira, Confluence, SonarQube, Gerrit Database : Oracle Development : Java 8, Spring Framework: Spring Core, Spring Web MVC, Spring Data JPA, Spring Data REST, Spring Security, Spring HATEOAS, Spring Boot, Junit 5, PowerMock, HTML/CSS, JavaScript, Lombok Tools : Git, Maven, IntelliJ Idea, Postman, SQL Developer Зона ответственности на проекте – full-stack developer: Разработка Rest веб-сервиса на базе Spring Разработка front части – SPA на базе HTML/CSS/JavaScript Покрытие кода юнит-тестами "
+            },
+            "educationItem": {
+                "faculty": "Вычислительной техники",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "4843fc31-6392-369c-a2ee-eaa7a26ec7e1",
+            "about": " Высоко мотивированный и квалифицированный Java-разработчик с опытом работы более 3 лет. Постоянно совершенствую свои навыки и расширяю уровень знаний. Считаю обучение неотъемлемой частью своей работы. Мне нравится работать в команде и решать нестандартные задачи, я адекватно отношусь к критике. Для меня действительно важно активно общаться со своей командой, принимая решения, которые позволяют создать отличный продукт. Моя цель, как Java разработчика - постоянно улучшать то, над чем работаю и приносить прибыль компании. Я посвящаю себя своей работе и не могу представить себе другого образа жизни. Имею небольшой опыт с Docker, Kubernetes в связи с этим нахожусь в поисках интересного проекта, который даст возможность прокачать свои знания. ",
+            "key_skills": null,
+            "experienceItem": {
+                "position": "Java Developer",
+                "description": "Проект: создание корпоративного портала с приложением для обмена опытом сотрудниками Технологии использовавшиеся на проекте: - Java 8 - Spring Framework - Boot, Web, Security, Data - PostgreSQL - Hibernate - Lombok - JUnit - Maven - Github Мои задачи на проекте: - написание сущностей, установление отношений между ними, типов связей; - создание API для фронта; - обработка ответов для фронта; - создание системы аутентификации c JWT-токеном; - рефакторинг сущностей в зависимости от новых требований. - написание unit тестов;"
+            },
+            "educationItem": {
+                "faculty": "",
+                "specialty": "Технология машиностроения, инженер",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "cce6a630-720f-3013-8b7b-1720b784cc86",
+            "about": null,
+            "key_skills": "Java, MySQL, JavaScript, Hibernate ORM JPA, Apache Maven REST, TeamCity, Gradle, Atlassian Confluence, SQL, Docker, Git, JDBC, PostgreSQL, Jasper Report, Atlassian Jira, Spring Framework, Thymeleaf, Kotlin, ООП, Apache Tomcat, Spring AOP, Микросервисы, Ajax, GitLab, GRPC, MapStruct",
+            "experienceItem": {
+                "position": "Java Developer",
+                "description": " Разработка ПО, для поиска автомобильных запчастей на территории других стран. Технологии, используемые на проекте: MySQL,JDBC ,PostgreSQL,Ci/CD,Hibernate/JPA,Spring Framework(Boot,Security,Data,Core), Java 8, Git,Docker,Tomcat, Bootstrap, JS(JQuery,Fetch,Ajax), HTML, Thymeleaf. "
+            },
+            "educationItem": {
+                "faculty": "Кибернетика, Мехатроника и Робототехника",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "0fe70aee-589a-3ba7-8479-d8f2f83b0921",
+            "about": " Креативен – не редко, пытаюсь взглянуть на проблему под другим углом, часто срабатывает. Ответственен – прилагаю максимум усилий к решению поставленной задачи в отведенный срок. Воспитываю двоих детей. Среди моих увлечений: шахматы, гитара, сноуборд. Не останавливаюсь на достигнутом – планирую, ставлю перед собой цели, достигаю результатов. Стремлюсь к новым познаниям и достижениям. ",
+            "key_skills": "Spring Framework, Hibernate ORM, SQL, PostgreSQL, ООП, REST, JUnit, Git, MVC, SOLID, Spring Security, Spring Web, Spring Boot, Spring Data, Apache Maven, Kafka, ELK, Docker, ArangoDB, K8s, Clickhouse, Java, NoSQL, MSA",
+            "experienceItem": {
+                "position": "Java Developer",
+                "description": " Участвовал в разработке CRM системы для производственных и оптовых компаний. Система покрывала задачи клиентов в вопросах администрирования, учёта по всем ключевым параметрам, сбора статистики и многие другие задачи. Приложение построено на микросервисной архитектуре. Обязанности: • Участие на всех этапах жизненного цикла разработки • Участие в архитектурной деятельности и разработке программного обеспечения • Разработка новых сервисов • Разработка архитектуры новых сервисов и тестов для них • Принятие решений при разработке частей приложения, предполагающих творческие решения при внедрении новых функций • Исправление ошибок • Ревью кода • Покрытие кода тестами. • Поддержка существующего кода. Стек технологий: Java 8, Hibernate, Spring Framework (web, security, data, boot), Spring Cloud (Getaway API, Eureka, FeignClient, Sleuth, Prometheus), Kafka, Docker, ELK, Lombok, PostgreSQL, Redis, Maven, Jenkins, Git "
+            }
+        },
+        {
+            "uuid": "6927466d-20e7-3873-9267-83fc9bfa4037",
+            "about": null,
+            "key_skills": null,
+            "experienceItem": {
+                "position": "Программист",
+                "description": "Поддержание сети и сервисов кафедры в рабочем состоянии, разработка различных проектов (гранты)."
+            },
+            "educationItem": {
+                "faculty": "",
+                "specialty": "Аспирант",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "e59d1c07-489b-3299-803f-5dea7da43b56",
+            "about": null,
+            "key_skills": "Java, Spring Boot, PostgreSQL, Реактивное программирование",
+            "experienceItem": {
+                "position": "Backend developer",
+                "description": null
+            },
+            "educationItem": {
+                "faculty": "Автоматики и электроники",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "3bbc8c32-ba6f-3f3f-a469-ea009295a1ab",
+            "about": null,
+            "key_skills": "Java 8 - 13, Spring(Core, MVC, Security, Boot, Data, Cloud), Maven, Oracle DB, PostgreSQl, Liquibase, Camunda BPM, RabbitMQ, ActiveMQ Artemis, Docker, Kubernates, Helm Charts, Nexus Repositories, Gitlab, Gitlab CI, Jenkins, Elastic Search, Swagger, Jira, Confluence, Linux, REST.",
+            "experienceItem": {
+                "position": "Разработчик - Центр компетенций внедрения и - ПАО « »",
+                "description": " - Участие в разработке и поддержке высоконагруженной системы технической поддержки; - Обучение коллег, изучение и применение новых технологий для проекта; - Анализ и уточнение функциональных задач; - Кросс-ревью кода и обсуждение улучшений системы; - Frontend разработка, написание тестов; - Разработка дизайна интерфейса; - Сбор и отображение статистики; Java 8, Kotlin, Angular2, Spring(Core, Data, Security, MVC, Boot), Maven, Gradle, Camunda BPM, Liquibase, PostgreSQL, Apache Solr, RabbitMQ, Gitlab, Jenkins, Swagger, Elastic Search, Linux, REST, SOAP, Scrum "
+            },
+            "educationItem": {
+                "faculty": "Высшее профессиональное образование, Программист",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "0b1a7596-d9dc-37de-a154-90f3bfdc8ce6",
+            "about": null,
+            "key_skills": "Java, SQL, Spring Framework, Hibernate ORM, JPA, Spring Data, REST, Spring Boot, Apache Maven, Gradle, Spring Cloud, Lombok, Spring Web, JUnit, PostgreSQL, Git, FeignClient, Docker, Apache Kafka, Swagger, MongoDB, Liquibase, Intellij IDEA, REST API, JSON API, Kotlin, Spring Webflow, TDD, Умение работать в команде, Английский язык",
+            "experienceItem": {
+                "position": "Java/Kotlin Developer",
+                "description": " Проект: Многофункциональный программный интерфейс онлайн-кинотеатра. Особенности: - микросервисная архитектура; - front system and back system; - решения интеграционной архитектуры REST API и брокер сообщений Apache Kafka; - решения технической архитектуры pipeline manager CI/CD и кластер на ядре Kubernetes Задачи: - Разработка функционала - Поддержка и доработка - Refactoring - Code review - Bugfixing - Выпуск и обновление контрактов Стек: Java 11, Kotlin, Spring Framework (Web, Boot, Webflow, Data, Cloud), Hibernate, Lombok, MapStruct, Liquibase, PostgreSQL, MongoDB, Apache Kafka, RabbitMQ, Maven, OpenShift, Swagger, Bitbucket, Jira, Confluence "
+            },
+            "educationItem": {
+                "faculty": "Энергомашиностроение",
+                "specialty": "Гидравлические машины, гидроприводы и гидропневмоавтоматика",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "e3a42770-927c-3d59-a761-bcc3549d1054",
+            "about": null,
+            "key_skills": "Java 8, Java 11, SQL, Git, HTML, MySQL, Spring Framework, Spring Boot, Spring Data JPA, Spring Security, Bootstrap, Apache Maven, Swagger UI, ELK, Lombok, Hibernate ORM, Apache Kafka, Trello, Gradle, JUnit, Mockito.",
+            "experienceItem": {
+                "position": "Инженер-программист",
+                "description": " Реализация cron-тасков для проведения транзакций, для обработки ошибочных транзакций и т. д. Реализация отправки push-уведомлений через Google FCM. Интеграция с другими системами (SOAP). Реализация новых сервисов в рамках текущих задач. "
+            },
+            "educationItem": {
+                "faculty": "Прикладная математика и физика, Прикладная математика и информатика",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Магистр"
+            }
+        },
+        {
+            "uuid": "93d61f89-b8d0-3187-8c90-888be29e68dd",
+            "about": " • 5+ years of experience in JAVA / JAVA EE. • Strong background in the implementation and maintenance of complex distributed enterprise systems. • Good understanding of OOP, OOD, common GOF Design Patterns and SOLID principles, Inversion of control principle, Enterprise design patterns, etc... • Ability to write clean and maintainable code with Automated Unit and Integration Tests. • Experience with new and legacy projects, ability to debug and solve hard issues. • Analytical and problem-solving skills. • Excellent communication and interpersonal skills. • Highly motivated, well organized and energetic. • Architectures: Microservices, SOA, and monolithic. • Software development methodologies: AGILE methodology with SCRUM. • JAVA EE: Servlet API, JDBC, JPA, JMS, JAX-RS, JAX-WS, etc... • Databases: SQL and NoSQL, such as Oracle 10g, MySQL, MongoDB. • Frameworks: Spring core, Spring boot, Hibernate, Apache Camel, ActiveMQ, GWT, etc... • Search Engines: Elasticsearch. • Testing: JUnit, Hamcrest, TestNG, Mockito. • Continuous integration/delivery: Maven, Jenkins, Sonar. • Servers: Apache Tomcat, JBoss Fuse, etc... • Operating Systems: Linux distributions (Ubuntu, CentOS, Oracle Linux, Kali Linux). ",
+            "key_skills": "Java, Git, ООП, Linux, MySQL, SQL, Docker, Java Spring Framework, Java Persistence API, RESTful WebServices.",
+            "experienceItem": {
+                "position": "Android developer",
+                "description": " Этот продукт разработан для уведомления пользователей о начале матчей и отображения результатов в реальном времени. Пользователи могут подписываться на команды, игры, события и получать уведомления. "
+            }
+        },
+        {
+            "uuid": "156ce0c2-d834-3e8e-ba17-3b35e68bbf10",
+            "about": "Senior Java Software Engineer specialized in back-end architecture development. Working with a large scale financial applications, high traffic web applications, social media sites and more. Interested in creating stable products and services that solve real problems. I am a quick learner and enjoy the process of learning new technologies and skills",
+            "key_skills": "Java, JUnit, Spring Framework, Liquibase, WebSockets, Hibernate, JMS Servers, JPA, React, Redux, Vert.x, Oracle, PostgreSQL, JavaScript, TypeScript, Docker, MongoDB, Apache ActiveMQ, RabbitMQ, Microsoft SQL Server, SQL, Kotlin, Kafka",
+            "experienceItem": {
+                "position": "Software Engineer",
+                "description": " Design and supporting ERP system. Responsibilities: 1. Developments of company ERP system. 2. Introducing software design. 3. Coding. Technology and Skills: Java, JavaScript, SQL Domains: IT shared services "
+            },
+            "educationItem": {
+                "faculty": "Master's degree with honors, Computer Science",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "62092df7-1166-3602-b509-a4df3999ffe5",
+            "about": " Коммуникабелен, стрессоустойчив. Ориентирован на результат. Активный. Предпочитаю постоянное разностороннее развитие, изучение всего нового. Имею чувство юмора. Мой стек: Java 8-17 Java Collections, Streams API, Reflection API Jackson JSON, Apache Commons и др. Rest API Spring Boot, Spring Data, Spring Cloud, Spring Security, Spring WebFlux JavaFX Hibernate JDBC, JPA, Hibernate Oracle SQL, Oracle Cloud, PostgreSQL, Snowflake SQL, MongoDB SLF4J, LOG4J, logback, Kibana JUnit 4/5, Mockito, Jmeter Gradle, Maven Docker Compose Git, CI/CD, bash Mulesoft Saml SSO, oauth2, jwt ITSM ServiceNow Windows, Mac OS, Linux ",
+            "key_skills": "Scrum, Быстрое обучение, Открытый к новой информации, Работа в команде, Java, Spring Framework, JDBC, Apache Maven, Gradle, Git, CI/CD, JUnit, JMeter, MacOS, Intellij IDEA, PostgreSQL, ORACLE, Linux, ITSM, REST, MongoDB",
+            "experienceItem": {
+                "position": "Консультант",
+                "description": "Обязанности: Распределение входящего потока и обслуживание клиентов, продажа продуктов дистанционного обслуживания, подключение бонусной программы и дополнительных услуг к банковским картам. Достижения: Ежедневное выполнение плана на 200% в среднем, помощь команде - продажа карт, кредитов, кредитных карт и коробочного страхования. Много положительных отзывов от клиентов в том числе записи в книге отзывов и предложений."
+            },
+            "educationItem": {
+                "faculty": "Экономический",
+                "specialty": "Финансы и кредит",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "bd53a1ea-ae17-3506-97b4-287aa8e9cc21",
+            "about": " Более 6 лет отраслевого опыта в проектировании и разработке серверных приложений. ",
+            "key_skills": "Java 11, Spring Boot 2, Jdbc, PostgreSQL, Kafka, Apache Camel, ELK, Docker, Kubernetes, Maven., Collaboration: GitLab, Jira, Confluence",
+            "experienceItem": {
+                "position": "Java Software Engineer",
+                "description": " Я принимал участие в следующих проектах: 1) Заявление на предоставление отчетности по ремонту и аренде подвижного состава (подрядчик ОАО \"РЖД\"). - интеграция со сторонними системами с использованием протоколов soap и amqp - создание сложных бизнес-отчетов с использованием собственного sql 2) Приложение для работы с API товарной биржи \"Санкт-Петербургская международная товарная биржа\". Стек: JDK 8, JSF, ActiveMQ, Hibernate, Wildfly, Postgres, Oracle, Flyway, apache POI "
+            },
+            "educationItem": {
+                "faculty": "",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "64d2b2a9-98df-37a6-a326-a223db297718",
+            "about": null,
+            "key_skills": null,
+            "experienceItem": {
+                "position": "Java developer",
+                "description": " Участвовал в разработке CRM систем для страховых компаний, малого и среднего бизнеса, предназначенной для автоматизации страхования, хранения данных о клиентах, исполнителях и взаимодействия с ними, также для работы с клиентами, составление договоров. Обязанности: - Разрабатывал микросервисы - Оптимизация sql запросов - Исправление багов - Разработка API и тестирование - Проводил код ревью OpenFeign, ELK "
+            }
+        },
+        {
+            "uuid": "0f45f507-0b5d-347f-86e2-0f799898f812",
+            "about": "Из личных качеств могу выделить: коммуникабельность, вежливость и, как следствие, умение работать в команде и взаимодействовать с разными людьми, легко обучаюсь. Готова помогать окружающим. Тяга к новым знаниям. Из увлечений: занятие спортом (в прошлом профессиональный спортсмен , лёгкая атлетика), люблю путешествовать и общаться с новыми людьми ",
+            "key_skills": "Spring Framework, Java, SQL, Hibernate ORM, PostgreSQL, ООП, REST, Intellij IDEA, GitLab, Работа в команде, MVC, JPA, Spring Boot, JUnit, Lombok, Maven",
+            "experienceItem": {
+                "position": "Java-разработчик",
+                "description": "Участвовала в разработке приложения, по контролю за движением международных экспресс отправлений. Основной функционал заключался в управлении формирования заказа, формирование таможенных деклараций и общий контроль за передвижением товара Oбязанности: -разработка нового функционала и его поддержка -разработка слоя REST-контроллеров, сервисного слоя с реализацией бизнес-логики -проектирование DTO и сущностей БД, написание SQL-запросов к БД - покрытие кода тестированием (unit тесты) - исправление багов, рефакторинг и оптимизация кода Стек технологий: Java 8, Spring Framefowk (web, boot, security, data jpa), Hibernate ORM, Lombok, , PostgreSQL, JUnit, Maven, GitLab, Docker "
+            }
+        },
+        {
+            "uuid": "17c3be62-5893-3e43-a5a6-537780aef3ff",
+            "about": null,
+            "key_skills": "Java, Spring Framework, Шаблоны проектирования",
+            "experienceItem": {
+                "position": "Старший разработчик",
+                "description": null
+            },
+            "educationItem": {
+                "faculty": "Диплом специалиста по инженерной специальности, Профессиональное программирование",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "11ac90f4-ea3d-3c82-8cf7-19f9c4da8ad0",
+            "about": "Хобби: тренажерный зал, ездить на машине Личные качества: ответственность, коммуникабельность, нацеленность на результат, активная позиция, заинтересованность в общем успехе.",
+            "key_skills": "Java, JUnit, Spring Framework, Git, Intellij IDEA, Apache Maven, kotlin",
+            "experienceItem": {
+                "position": "инженер-программист",
+                "description": "Обязанности: 1) разработка клиент-серверных приложений, пользовательских интерфейсов с использованием Java, Oracle, C/C++ для автоматизации рабочих мест; 2) написание технической документации. Достижения: 1) разработка и успешное внедрение АРМ \"Управление наливом чугуна\" 2) подбор оборудования для реализации проекта и его шеф-монтаж на объекте; 3) разработка и успешное внедрение ПО для сбора данных с удаленных объектов автоматизации с последующей интеграцией в единую ИС; 4) внедрение рацпредложений на предприятии. Знание языков: Java, C/C++, PL/SQL, HTML/CSS. Опыт работы с кодом: 1) разработка ПО на Java SE 6 с использованием технологий JDBC, JNI; 2) написание кода на PL/SQL; 2) разработка GUI приложений под Windows в среде C++ Builder 6; 3) написание ПО на С/С++ для Linux. Опыт работы с СУБД: Oracle, знакомство с MySQL. Знание платформ Windows, Linux."
+            },
+            "educationItem": {
+                "faculty": "факультет автоматизации и информатики",
+                "specialty": "Электропривод и автоматика промышленных установок и технологических комплексов",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "82df355a-235e-3046-9e6e-782ddf1600eb",
+            "about": null,
+            "key_skills": null,
+            "experienceItem": {
+                "position": "Java разработчик",
+                "description": " 1. Интегрированная система управления сервисами (ISUC) для обслуживания клиентов финансовых учреждений. 2. Онлайн-сервис аналитики рынка труда в сфере информационных технологий для граждан, предприятий и государственных служб. Обязанности: - Разработка и внедрение новых функциональностей в Java-приложение; - Анализ и оптимизация производительности приложений для обеспечения быстрой работы и отзывчивости; - Выпуск RESTконтроллеров, разработка бизнес-логики сервисного уровня, настройка сервера конфигурации; - Проектирование базы данных, проектирование объектов entity и DTO, составление JPQL/HQL/SQL-запросов; - unit тестирование. Стек технологий: Java, Intellij IDEA, Spring Framework (Core, Web, Boot, Security, Data JPA, AOP, REST, Cloud), JPA/Hibernate, MapStruct/ModelMapper, Lombok, Postman/Insomnia, Oracle SQL, Liquibase, JUnit, Mockito, SLF4J/Logback, Gradle, Git/Gitlab, Swagger, Atlassian JIRA, Atlassian Confluence, MongoDB/Mongock, Redis, ELK (ElasticSearch, Logstash, Kibana), RabbitMQ, СI/CD, Docker, Kubernetes. "
+            },
+            "educationItem": {
+                "faculty": "Экономики и Менеджмента",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "915597ce-24e5-31fa-8dca-29437f49f839",
+            "about": " Более 10 лет разработки приложений Windows и Linux с использованием различных языков программирования, в том числе на Java - свыше 5 лет. Из других языков имею опыт коммерческой разработки на C# (desktop и Web-приложения) и Java. Увлекаюсь системным программированием (Assembler, C, Oberon, старые процессоры вроде Z80). Разрабатываю компилятор для своего языка программирования и игру в жанре RPG для ZX Spectrum. На Java есть опыт работы со технологиями: - core Java: коллекции, Stream API, базовые знания многопоточности (threads, sync, Runnable, Atomic типы), JNI/JNA для интеграции с низкоуровневым кодом; - Spring: Boot, MVC, Data JPA, немного Security (только базовая авторизация); - JavaEE: сервлеты (JSP, JSF), веб-сервисы (JAX-WS/SOAP, JAX-RS/REST, интеграция со СМЭВ), EJB 3; - сервера приложений: Tomcat, Glassfish, WildFly, Jetty, Netty; - базы данных: JDBC, JPA/Hibernate (аннотации, Criteria API), jOOQ; - desktop разработка: AWT, Swing, SWT, JavaFX; - криптография: JCA, КриптоПро JCP. Также работал со следующими технологиями: - базы данных: Firebird, SQL Server, PostgreSQL (написание сложных запросов и хранимых процедур), NoSQL базы Lotus Notes/Domino и MongoDB; - front-end: HTML5 (Canvas, Flexbox и др.), TypeScript, jQuery & jQueryUI, Bootstrap, Angular 2+, Vue, SVG; - инструменты разработки: системы сборки Maven и Gradle, системы контроля версий SVN, Git и Mercurial. В связи с эпидемией вируса COVID-19 сейчас рассматриваю только удаленную работу ",
+            "key_skills": "Java Servlets, Hibernate ORM, SOAP, REST, Spring Boot, C#, core Java: коллекции, Stream API, базовые знания многопоточности (threads, sync, Runnable, Atomic типы), JNI/JNA для интеграции с низкоуровневым кодом, JavaEE, Firebird, SQL Server, PostgreSQL, HTML5 (Canvas, Flexbox и др.), TypeScript, jQuery & jQueryUI, Bootstrap, Angular 2+, Vue, SVG",
+            "experienceItem": {
+                "position": "Программист C#/ASP.NET",
+                "description": " 1. Разработка портлетов (модулей) для BPMS системы Elewise ELMA (загрузчик файлов по FTP, рассылка сообщений в Jabber, ICQ, Twitter, Facebook и  ) и пользовательского интерфейса на KendoUI (HTML5/CSS3/jQuery). Используемые технологии: ASP.NET MVC, ADO.NET Entity Framework/LINQ, jQuery, KendoUI. 2. Доработка приложения на QT, взаимодействующего с базой данных Firebird. Используемые технологии: С++, QT, Firebird. "
+            },
+            "educationItem": {
+                "faculty": "Прикладная информатика",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Бакалавр"
+            }
+        },
+        {
+            "uuid": "f288a532-0b58-30cb-ac3c-f87e53984719",
+            "about": "В свободное время люблю путешествовать с семьёй. Своё развитие вижу в дальнейшем погружении в мир backend разработки и высоконагруженных систем.",
+            "key_skills": "Ответственность, Коммуникабельность, Аналитическое мышление, Целеустремленность",
+            "experienceItem": {
+                "position": "Java Developer",
+                "description": "Приложение для получения отчетов от сотрудников, работающих на выезде. - разрабатывал REST контроллеры - разрабатывал сервисы с бизнес-логикой - писал запросы к базе данных - редактировал шаблоны для фронтэнда. Стек: Java 8, MySQL, JDBC, Spring MVC, Thymeleaf, JUnit, Mockito, Spring Security, Git"
+            },
+            "educationItem": {
+                "faculty": "Прикладная информатика",
+                "specialty": "Прикладная информатика в экономике",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "3e3a379f-226e-305e-b7d8-cf341e00cbd7",
+            "about": "Поиск нового места работы всегда был довольно трудоемкой задачей для того, кто находится в ее поиске. Множество различных вариантов и предложений буквально захлестывают волной. В один из таких моментов мы познакомились с Еленой. Елена помогла быстро сориентироваться в имеющемся положении дел и принять наиболее правильное решение, проявив высокий профессионализм и качество в решении возникших вопросов.",
+            "key_skills": "Linux, Apache Maven, Java Collections, Java EE, Java Servlets, Intellij IDEA, JavaFX Design Patterns, Apache Tomcat, JUnit, SQL ООП, JSP JDBC, Git, MVC, Spring Data, Spring Cloud, Netflix OSS, PostgreSQL, Spring boot, Camunda",
+            "experienceItem": {
+                "position": "Java Developer",
+                "description": " Реализация компонентов проекта, участие в согласовании используемого стека технологий и анализ алгоритмов компонентов с целью повышения производительности компонента. Используемый стек: - Spring Boot - Spring Data - Spring MVC - Apache Kafka - Jackson - Docker - Jenkins - PostgreSQL, - H2 - Camunda BPM (Camunda + Modeler) - Maven - REST - Linux "
+            },
+            "educationItem": {
+                "faculty": "Диплом специалиста по инженерной специальности, Испытатель ЛА",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        },
+        {
+            "uuid": "cc88bf96-f0b9-313a-abce-dbe60b6f1c98",
+            "about": null,
+            "key_skills": "Kotlin, Java, Project Reactor",
+            "experienceItem": {
+                "position": "System Administrator",
+                "description": "I was responsible for managing, maintaining, and troubleshooting various hardware and software systems, including VMWare ESX, Linux, Windows, and AIX operating systems. I also managed the Oracle Database and Oracle BI EE 10g & 11g, providing technical support to internal and external stakeholders. Additionally, I was involved in the setup and configuration of nginx and IIS web servers."
+            },
+            "educationItem": {
+                "faculty": "",
+                "specialty": "",
+                "education_type": "Основное",
+                "education_level": "Высшее"
+            }
+        }
+    ]
+}

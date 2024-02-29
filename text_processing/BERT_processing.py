@@ -2,6 +2,7 @@ from transformers import BertTokenizer, BertModel
 import torch
 from sklearn.metrics.pairwise import cosine_similarity
 import json
+import uuid
 
 # Загрузка модели и токенизатора
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
@@ -16,28 +17,45 @@ def get_embedding(text):
 
 # Функция для вычисления косинусного сходства
 def compute_similarity(embeddings1, embeddings2):
-    return cosine_similarity(embeddings1, embeddings2)
+    embeddings1_np = embeddings1.detach().cpu().numpy()
+    embeddings2_np = embeddings2.detach().cpu().numpy()
+    similarity_scores = cosine_similarity(embeddings1_np, embeddings2_np)
+    return similarity_scores.tolist()  
 
-# Загрузка и обработка данных
-def match_resumes_to_vacancies(input_file):
-    with open(input_file, 'r', encoding='utf-8') as file:
-        data = json.load(file)
+def match_resumes_to_vacancies(input_file, output_file):
     
-    # Предполагаем, что данные уже предобработаны
+    with open(input_file, 'r', encoding='utf-8') as file:
+            data = json.load(file)
+        
+    results = []
+    
     for item in data:
-        vacancy_text = item['key_info']  # Текст вакансии
+        vacancy_uuid = item['vacancy_uuid']
+        confirmed_resumes = item['confirmed_resumes']
+        
+        vacancy_text = item.get('vacancy_text', '')  # assuming vacancy_text might be present
         vacancy_embedding = get_embedding(vacancy_text)
         
-        for resume in item['confirmed_resumes']:
-            resume_text = resume['key_info']  # Текст резюме
+        for resume in confirmed_resumes:
+            resume_text = resume['key_info']
             resume_embedding = get_embedding(resume_text)
             
-            # Расчет сходства между вакансией и резюме
             similarity = compute_similarity(vacancy_embedding, resume_embedding)
-            print(f"Сходство между вакансией и резюме: {similarity}")
+            
+            # Generate unique ID for each pair of vacancy-resume
+            unique_id = str(uuid.uuid4())
+            
+            # Store the result
+            result = {"uuid": unique_id, "vacancy_uuid": vacancy_uuid, "resume_uuid": resume['resume_uuid'], "similarity": similarity}
+            results.append(result)
+    
+    # Write results to output file
+    with open(output_file, 'w', encoding='utf-8') as out_file:
+        json.dump(results, out_file)
 
 # Путь к файлу с данными
-input_file = 'path_to_your_processed_json_file.json'
+input_file = 'text_processing/resumes_normalized.json'
+output_file = 'text_processing/similaritites.json'
 
 # Сопоставление резюме с вакансиями
-match_resumes_to_vacancies(input_file)
+match_resumes_to_vacancies(input_file, output_file)

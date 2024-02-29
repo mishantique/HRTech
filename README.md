@@ -33,15 +33,13 @@ sh
     └── api_processing
        └── _pycache_
           ├── resume_processing.py
-          ├── vacancies_only.json
           ├── vacancies_processing.py
     ├── JSON 
        └── JSON_processing.py
           ├── resumes_processing.json
-          ├── test.json
-          ├── testing_api.json
-          ├── train.json
           └── vacancies_only.json
+       ├── test.json
+       ├── train.json
     ├── model
        ├── boosting.py
        └── random_forest.py

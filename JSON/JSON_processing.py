@@ -1,10 +1,12 @@
 import json
 
-# Открываем файл и считываем его содержимое
-with open('C:/Users/МИХАИЛ/Desktop/Хакатоны/SENSE/JSON/train.json', 'r', encoding='utf-8') as f:
-    json_data = f.read()
+# Загрузка исходных данных из файла, находящегося в подпапке
+with open('JSON/train.json', 'r', encoding='utf-8') as file:
+    data = json.load(file)
 
-# Подсчитываем количество символов
-num_characters = len(json_data)
+# Извлечение только данных о вакансиях
+vacancies = [item['vacancy'] for item in data]
 
-print(f"Количество символов в JSON файле: {num_characters}")
+# Сохранение данных о вакансиях в новый файл, также в подпапке JSON
+with open('JSON/vacancies_only.json', 'w', encoding='utf-8') as file:
+    json.dump(vacancies, file, ensure_ascii=False, indent=4)

@@ -3,7 +3,7 @@ import os
 import openai
 import json
 from openai import OpenAI
-from resume_processing import extract_key_info
+
 # Загрузка переменных окружения из файла .env
 load_dotenv()
 
@@ -15,39 +15,53 @@ client = OpenAI(
     base_url="https://api.proxyapi.ru/openai/v1",
 )
 
-def process_vacancies(input_file, output_file):
+def extract_key_info(description):
     
-    '''Функция для извлечения ключевой информации из вакансий.
-    Принимает на вход путь к директориям для файла с вакансиями и для возвращаемого файла.
-    Возвращает JSON-файл с ключевой информации по вакансиям в виде структурированного предложения.'''
+    '''Функция принимает на вход информацию,
+    которая содержится в каждой из записей в JSON.
+    Возвращает содержимое сгенерированного ответа в виде строки.'''
     
-    with open(input_file, 'r', encoding='utf-8') as file:
-        data = json.load(file)
+    # Используем Proxy API для извлечения ключевой информации из описания
+    response = client.chat.completions.create(
+        model="gpt-3.5-turbo", 
+        messages=[{"role": "user", "content": f'''Извлеки основную информацию из: {description} 
+                   и структурируй ответ таким образом:
+                   "Предложение, содержащее информацию о технологическом стеке.
+                   Предложение с информацией о наличии коммерческого опыта.
+                   Предложение с информацией об образовании.
+                   Предложение с возрастом.
+                   Предложение с grade (сеньор/ миддл/ ..)
+                   Предложение с предпочтениями удаленный формат работы/ офис.
+                   Предложение с зарплатой.
+                   Предложение с личными качествами.
+                   Если что-то отсутствует, пиши в предложении NaN'''}]
+    )
+    # Возвращаем первый вариант ответа
+    return response.choices[0].message.content.strip()
 
-    new_data = []  # Этот список будет содержать обработанную информацию о вакансиях
 
-    for item in data:
-        vacancy_info = item['vacancy']
-        vacancy_uuid = vacancy_info['uuid']  # Извлекаем uuid вакансии
-        description = vacancy_info['description']  # Извлекаем описание вакансии
-        comment = vacancy_info['comment']  # Извлекаем комментарий к вакансии
+# Чтение исходного файла
+with open('C:/Users/МИХАИЛ/Desktop/Хакатоны/SENSE/JSON/vacancies_only.json', 'r', encoding='utf-8') as file:
+    
+    '''Функция для выделения ключевой информации из JSON.
+    Принимает на вход путь к директории с JSON-файлом 
+    с неструктурированными данным. Возвращает JSON с ключевой информацией
+    в виде структурированного текста.'''
+    
+    data = json.load(file)
 
-        processed_description = extract_key_info(description)
-        processed_comment = extract_key_info(comment)
+# Создание нового списка с обновленной информацией
+new_data = []
+for item in data:
+    key_info = extract_key_info(item['description'])
+    new_data.append({
+        'uuid': item['uuid'],
+        'key_info': key_info
+    })
 
-        processed_item = {
-            'vacancy_uuid': vacancy_uuid,
-            'processed_description': processed_description,
-            'processed_comment': processed_comment
-        }
+output_file = 'JSON/vacancies_processed.json'
+# Сохраняем обработанные данные в выходной файл
+with open(output_file, 'w', encoding='utf-8') as file:
+    json.dump(new_data, file, ensure_ascii=False, indent=4)
 
-        new_data.append(processed_item)  # Добавляем обработанные данные по вакансии в общий список
 
-    # Сохраняем обработанные данные в выходной файл
-    with open(output_file, 'w', encoding='utf-8') as file:
-        json.dump(new_data, file, ensure_ascii=False, indent=4)
-
-# Использование функции
-input_file = '../JSON/train.json'  
-output_file = '../JSON/processed_vacs'
-process_vacancies(input_file, output_file)

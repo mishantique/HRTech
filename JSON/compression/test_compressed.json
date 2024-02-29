@@ -1,10 +1,10 @@
 {
     "vacancy": {
-        "uuid": "",
-        "name": "",
-        "keywords": "",
-        "description": "",
-        "comment": ""
+        "uuid": "8b9c8d16-c7f0-38a2-b80c-d94030c15a6f",
+        "name": "Java разработчик",
+        "keywords": "Kafka, Java, RxJava, Hystrix, MongoDB ",
+        "description": "Требования: 4+ года опыта работы с Java 8+ или Kotlin 4+ года опыта работы с Spring и 2+ год работы с Spring Boot. Опыт работы с системами на микросервисной архитектуре (Spring Cloud, Kubernetes, Openshift или аналоги). Опыт работы с Docker. Опыт работы с 3-мя любыми из следующих технологий NoSQL (MongoDB, Elasticsearch, аналоги) SQL (PostgreSQL, Oracle, аналоги) Брокеры сообщений (Kafka, RabbitMQ, аналоги) Reactive programming (RxJava, Project Reactor) Cache (Redis, Hazelcast). Настройка CI/CD (GitlabCI, Jenkins, аналоги). Настройка средств мониторинга (Zabbix, Prometheus). Настройка средств логирования (Graylog, ELK). Будет хорошо, если кандидат: Знает все технологии из первого пункта; Участвовал в проработке архитектуры и может объяснить все решения на своем проекте; Готов драйвить техническое развитие систем, а не просто следовать текущим стандартам; Имеет дружеские отношения с DevOps, пайплайны, контейнеризация и оркестрация, Linux; Понимает микросервисную архитектуры и устройство распределенных систем; Участвовал в подборе и онбординге новых сотрудников; Умеет и хочет писать технические статьи. Развиваться и развивать коллег/комьюнити. Проводить как разовые тренинги, так и планировать долгие обучения. Что предстоит делать: Использовать самый современный технологический стэк для создания FinTech решений; Разрабатывать приложения, которые масштабируются на все дистанционные каналы банка (интернет-банк, мобильные приложения, платёжные сервисы и многое другое); Взаимодействовать с различными командами разработки, Data Science, поддержки и другими (поэтому необходимы хорошие навыки коммуникации или желание их развивать); Вносить свой вклад в развитие архитектуры, делать новое и оценивать старое. ",
+        "comment": null
     },
     "resumes": [
         {
@@ -27,8 +27,8 @@
             "about": " Обязанности: в составе группы поддержки я отвечал за исправление ошибок и поддержку качества кода. Реализован скрипт для простого процесса развертывания. Реализован скрипт, обеспечивающий более эффективный анализ логов. Тех. стек: Java/Java2EE, Web Sphere, XML, SOAP, Restful Web Services, Junit, Subversion, Oracle DB, PostgreSQL, UML, SIP, Wireshark BUUC/M cent ( : запуск внутри компании MERA для разработки Feature Server на основе сервлетов M cent/SIP, которые расширяют функциональность сервера AS5300. Обязанности: Я исследовал возможность интеграции сервера AS5300 с технологией SIP-сервлетов. Разработано с нуля демонстрационное приложение для маршрутизации SIP-звонков. Тех. стек: Java, Spring, Hibernate, M cent, SIP, сервлеты SIP, XML, SOAP, Junit, Subversion, Oracle DB, MySQL ",
             "key_skills": "Java 8-17, Java SE, Java EE, Spring Framework (Boot, Security, Data, Cashe, Web, Cloud), Apache Maven, Apache Tomcat, Apache Kafka, RabbitMQ, Docker, Kubernetes, Openshift, MySQL, SQL, Postgres, Oracle, Hibernate, Liquibase, Elasticsearch, intelliJ IDEA, Lombok, MapStruct, JUnit, Mockito, TestNG, Jenkins, TeamCity, Flyway, Amazon EC2, Amazon RDS, Amazon S3, Servets, ClearCase, Subversion, YouTrack, Jira, Confluence ",
             "experienceItem": {
-                "position": "Senior Java developer",
-                "description": " Служба авторизации и лицензирования Wiley: Wiley — это международная научно-техническая, медицинская и научная издательская компания John Wiley & Sons, имеющая сильные стороны во всех основных академических и профессиональных областях и партнерские отношения со многими ведущими мировыми обществами. Wiley предоставляет различные виды услуг, такие как онлайн-библиотека Wiley, Wiley PLUS и другие. WALS — это часть внутренней инфраструктуры Wiley, отвечающая за управление лицензиями и обработку публикаций. Обязанности: в составе команды разработчиков я отвечал за разработку функций и поддержку продукта. Я перенес приложение с Spring 3 на Spring 4 и интегрировал WALS с внутренним инструментом Online Open Wiley. Реализована асинхронная обработка лицензионной информации. Я предложил внедрить и реализовал функционал, обеспечивающий более эффективную обработку публикаций. Тех. стек: Java, Spring, Hibernate, Tomcat, Apache Wicket, XML, XSLT, XPath, Restful Web Services, SOAP Web Services, TestNG, Mockito, Tibco EMS (JMS), CVS, Hudson "
+                "position": "Senior Java Developer",
+                "description": " Проект по поддержке инфраструктуры информационного портала Politico. Обязанности: Разработка фич по спецификациям Багфиксинг Рефакторинг кода Покрытие кода тестами Настройка CI/CD Ответственность за функционал Достижения: самостоятельно разработал инструмент-приложение для тестирования микросервисов на Groovy Cтек: Spring Boot, Java 15, hibernate, MySQL, kafka, K8S, Prometheus, Grafana. "
             }
         },
         {

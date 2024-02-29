@@ -46,6 +46,8 @@ def process_data_test(input_file, output_file):
         # Чтение данных из исходного файла
     with open(input_file, 'r', encoding='utf-8') as file:
         data = json.load(file)
+    
+    print("Файл успешно открыт!")
 
     # Применение функции к описанию вакансии
     vacancy_description = data['vacancy']['description']
@@ -55,8 +57,10 @@ def process_data_test(input_file, output_file):
     # Создание нового списка резюме, содержащего только 'uuid' и 'key_info'
     new_resumes = []
     for resume in data['resumes']:
+        print('Перешли к новому резюме')
         resume_description = resume['about']  # Использование поля 'about' в качестве примера для извлечения
         key_info = extract_key_info(resume_description)  # Извлечение ключевой информации
+        print('Работа с API openai отлажена.')
         new_resumes.append({
             "uuid": resume['uuid'],
             "key_info": key_info  # Использование нового названия поля
@@ -72,7 +76,7 @@ def process_data_test(input_file, output_file):
 
 # Пути к входному и выходному файлам (Тестовый корпус)
 input_file = 'JSON/compression/test_compressed.json'  
-output_file = 'JSON/resumes/resumes_processed_final_4(test).json'
+output_file = 'JSON/resumes/resumes_processed(test).json'
 # Пример вызова функции
 process_data_test(input_file, output_file)
 

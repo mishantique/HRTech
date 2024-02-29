@@ -48,7 +48,7 @@ def process_json(input_file_path, output_file_path):
         json.dump(processed_data, file, indent=4, ensure_ascii=False)
         
 # Пути к входному и выходному файлам (Резюме)
-input_file = 'JSON/train.json'  
-output_file = 'JSON/compression/train_compressed.json'
+input_file = 'JSON/test.json'  
+output_file = 'JSON/compression/test_compressed.json'
 
 process_json(input_file, output_file)

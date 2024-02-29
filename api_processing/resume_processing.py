@@ -3,6 +3,10 @@ import os
 import openai
 import json
 from openai import OpenAI
+import logging
+
+# Настройка логгирования
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Загрузка переменных окружения из файла .env
 load_dotenv()
@@ -16,10 +20,11 @@ client = OpenAI(
 )
 
 def extract_key_info(description):
-    
     '''Функция принимает на вход информацию,
     которая содержится в каждой из записей в JSON.
     Возвращает содержимое сгенерированного ответа в виде строки.'''
+
+    logging.info("Извлечение ключевой информации из описания")
     
     # Используем Proxy API для извлечения ключевой информации из описания
     response = client.chat.completions.create(
@@ -33,9 +38,10 @@ def extract_key_info(description):
                    Предложение с личными качествами.
                    Если что-то отсутствует, пиши в предложении NaN'''}]
     )
+    logging.info("Информация успешно извлечена")
+    
     # Возвращаем первый вариант ответа
     return response.choices[0].message.content.strip()
-
 def process_data(input_file, output_file):
     
     '''Функция для выделения ключевой информации из JSON.
@@ -95,8 +101,8 @@ def process_data(input_file, output_file):
         json.dump(new_data, file, ensure_ascii=False, indent=4)
 
 # Пути к входному и выходному файлам (Резюме)
-input_file = 'JSON/compression/test_compressed.json'  
-output_file = 'JSON/resumes/resumes_processed(train).json'
+input_file = 'JSON/compression/train.json'  
+output_file = 'JSON/resumes/train_processed_test.json'
 
 # Запускаем обработку для резюме
 process_data(input_file, output_file)

@@ -1,0 +1,117 @@
+{
+    "comment": "Количество приемлемых вакансий определяется исследователем. Согласно статистическому анализу файла train_data, среднее количество принятых вакансий составляет около 25%. Опираясь на этот факт, оставим четверть из ранжированного списка. Ранжированный список находится в полном распоряжении рекрутера.",
+    "data": [
+        {
+            "resume_uuid": "099b1c65-c060-3f5d-87cf-42bda251c3ea",
+            "similarity": 0.9659894704818726
+        },
+        {
+            "resume_uuid": "148b41b3-3504-3550-9783-145eba1be802",
+            "similarity": 0.9658281803131104
+        },
+        {
+            "resume_uuid": "4aac459a-0536-355b-ad4a-834acf6cc4cf",
+            "similarity": 0.9657950401306152
+        },
+        {
+            "resume_uuid": "42eae4bf-4826-3105-b197-dc0afb063714",
+            "similarity": 0.9653457403182983
+        },
+        {
+            "resume_uuid": "9a9c3ff1-49f8-30dd-a294-e56fc60cae64",
+            "similarity": 0.9647356271743774
+        },
+        {
+            "resume_uuid": "3e3a379f-226e-305e-b7d8-cf341e00cbd7",
+            "similarity": 0.964661717414856
+        },
+        {
+            "resume_uuid": "f6f396d8-5527-3610-8d0d-13768d9b3ec9",
+            "similarity": 0.9643296003341675
+        },
+        {
+            "resume_uuid": "a71b0749-1ebc-3099-b0a1-342ca64d1575",
+            "similarity": 0.9642651081085205
+        },
+        {
+            "resume_uuid": "87093480-2ef4-3d14-a30e-0c4cf41b93da",
+            "similarity": 0.9640882015228271
+        },
+        {
+            "resume_uuid": "f56395de-af47-3f65-90e9-37d44ea07610",
+            "similarity": 0.9635146260261536
+        },
+        {
+            "resume_uuid": "2cf91680-b719-3f92-9a56-dbbc9cd17b6c",
+            "similarity": 0.9635082483291626
+        },
+        {
+            "resume_uuid": "6cf3cee0-c911-30f6-b254-416029f8af3b",
+            "similarity": 0.9634546041488647
+        },
+        {
+            "resume_uuid": "6eaade34-b13c-3d17-a573-dfa786cbb0d5",
+            "similarity": 0.9632434844970703
+        },
+        {
+            "resume_uuid": "53a2a38b-4fef-3d65-8d6d-818d5e80dbfa",
+            "similarity": 0.9630593061447144
+        },
+        {
+            "resume_uuid": "0f45f507-0b5d-347f-86e2-0f799898f812",
+            "similarity": 0.9628307223320007
+        },
+        {
+            "resume_uuid": "0fe70aee-589a-3ba7-8479-d8f2f83b0921",
+            "similarity": 0.9625771045684814
+        },
+        {
+            "resume_uuid": "da445603-1f91-341f-93da-6b29c95aa35c",
+            "similarity": 0.9624128937721252
+        },
+        {
+            "resume_uuid": "cce6a630-720f-3013-8b7b-1720b784cc86",
+            "similarity": 0.9623957276344299
+        },
+        {
+            "resume_uuid": "d587e742-f07f-3037-b412-ac12c89f6e6a",
+            "similarity": 0.9621315002441406
+        },
+        {
+            "resume_uuid": "f8b69e24-e2c0-3186-9578-380835eb2ee7",
+            "similarity": 0.9618489146232605
+        },
+        {
+            "resume_uuid": "0cfa3d00-10b5-38d5-b166-329ff6f4598b",
+            "similarity": 0.9616328477859497
+        },
+        {
+            "resume_uuid": "a5187b56-f86c-3996-8797-57d178821222",
+            "similarity": 0.9616296291351318
+        },
+        {
+            "resume_uuid": "b1357f8e-3c98-3142-81e7-fd729ec50ca0",
+            "similarity": 0.9615411162376404
+        },
+        {
+            "resume_uuid": "5785c202-6744-3e1b-994a-d5bffc6aad14",
+            "similarity": 0.9612767100334167
+        },
+        {
+            "resume_uuid": "aff4b709-ccd2-340a-949f-84b1bb7eb260",
+            "similarity": 0.9612245559692383
+        },
+        {
+            "resume_uuid": "ae797830-f7a6-38f3-abf8-e1dc6cf3b6c3",
+            "similarity": 0.9612070322036743
+        },
+        {
+            "resume_uuid": "fbab422e-7e0b-38d2-a7bc-cc7286858c10",
+            "similarity": 0.9611597061157227
+        },
+        {
+            "resume_uuid": "8e456229-6e4e-3d57-a90e-ae4c3e1db869",
+            "similarity": 0.9610738754272461
+        }
+    ]
+}

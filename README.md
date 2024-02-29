@@ -8,7 +8,7 @@
 
 <!-- ROADMAP -->
 
-<h2 align = center> Алгоритм  </h2>
+<h2 align = center> Алгоритм </h2>
 
 
 <p align="center">

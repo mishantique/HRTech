@@ -12,7 +12,7 @@
 
 
 <p align="center">
- <img src="Алгоритм.png" alt="Алгоритм"/>
+ <img src="Алгоритм для ридми.png" alt="Алгоритм"/>
 </p>
 
 

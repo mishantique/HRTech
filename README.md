@@ -4,7 +4,7 @@
 В разработке продукта принимали участие: <a href = "https://github.com/mishantique"> Михаил Витко</a>, <a href = "https://github.com/ponyotyan"> Анастасия Ефимова</a>,<a href = "https://github.com/MrShaller"> Никита Недобежкин</a>, <a href = "https://github.com/veronikavinnichenko">Вероника Винниченко</a>.</div>
 
 <h2 align = center> Ранжированный список кандидатов содержится в файле "SORTED_ANSWER.json"
-Файл, содержащий отобранных кандидатов содержится в файле "ANSWER.json" </h2>
+Файл, содержащий отобранных кандидатов содержится в файле "ANSWER.json. Презентация: Василеостровская община.pptx" </h2>
 
 <!-- ROADMAP -->
 

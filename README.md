@@ -41,8 +41,7 @@
        ├── test.json
        ├── train.json
     ├── model
-       ├── boosting.py
-       └── random_forest.py
+       └── TF-IDF+Boosting.ipynb
     ├── test_processing
        └── BERT.processing.py
        └── preprocessing.py

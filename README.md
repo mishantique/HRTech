@@ -27,26 +27,45 @@
 ## 📂 Структура проекта
 
 ```sh
-└── SENSE
-    ├── _pycache_
-    ├── .venv
-    └── api_processing
-       └── _pycache_
-          ├── resume_processing.py
-          ├── vacancies_processing.py
-    ├── JSON 
-       └── JSON_processing.py
-          ├── resumes_processing.json
-          └── vacancies_only.json
-       ├── test.json
-       ├── train.json
-    ├── model
-       └── TF-IDF+Boosting.ipynb
-    ├── test_processing
-       └── BERT.processing.py
-       └── preprocessing.py
-    ├── .env
-    ├── len.py
+└── JSON
+   └── compression
+      ├── compression.py
+      └── test_compressed.json
+   ├── resumes
+      ├── resumes_processed_test.json
+      └── resumes_processed_train.json
+   ├── vacancies
+      ├── only_vacs_processing.py
+      ├── vacancies_only.json
+      └── vacancies_processed(train).json
+   ├── test.json
+   ├── train.json
+├── _pycache_
+   ├── api_processing.cpython-311.pyc
+   └── data_processing.cpython-311.pyc
+├── api_processing
+   ├── __pycache__
+   ├── resume_processing.py
+   ├── test_resume_processing.py
+   └── vacancy_processing.py
+├── model
+   └── TF_IDF+Boosting.ipynb
+├── text_processing
+   ├── BERT_processing.py
+   ├── resumes_processed_test.json
+   ├── similaritites.json
+   ├── sort_similiarity.py
+   ├── sorted_similarities.json
+   ├── test_preprocessing.py
+   ├── test_resumes_normalized.json
+   ├── topic_modeling.ipynb_.ipynb
+   ├── train_preprocessing.py
+   └── train_resumes_normalized.json
+├── .env
+├── len.py
+├── ANSWER.json
+├── answer_forming.py
+└── SORTED_ANSWER.json
 ```
 
 ## 📦 Для быстрого старта

@@ -1,7 +1,7 @@
 <h2 align = center> ML TALENT MATCH</h2>
 <p align = center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&pause=1000&color=F75D5D&vCenter=true&random=false&width=760&height=25&lines=%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC+%D0%B4%D0%BB%D1%8F+%D1%81%D0%BE%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F+%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%C2%A0%D0%B8+%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8" alt="Typing SVG" /></a></p>
 <div align="justify">Алгоритм, разработанный в рамках гибридного хакатона от SENSE при поддержке Акселератора Возможностей, предназначен для оптимизации процесса определения релевантности резюме конкретной вакансии. Алгоритм позволяет рекрутерам сократить временные затраты на поиск подходящих кандидатов. 
-В разработке продукта принимали участие: <a href = "https://github.com/mishantique"> Михаил Витко</a>, <a href = "https://github.com/ponyotyan"> Анастасия Ефимова</a>,<a href = "https://github.com/MrShaller"> Никита Недобежкин</a> , <a href = "https://github.com/veronikavinnichenko">Вероника Винниченко</a>.</div>
+В разработке продукта принимали участие: <a href = "https://github.com/mishantique"> Михаил Витко</a>, <a href = "https://github.com/ponyotyan"> Анастасия Ефимова</a>,<a href = "https://github.com/MrShaller"> Никита Недобежкин</a>, <a href = "https://github.com/veronikavinnichenko">Вероника Винниченко</a>.</div>
 
 <h2 align = center> Ранжированный список кандидатов содержится в файле "SORTED_ANSWER.json"
 Файл, содержащий отобранных кандидатов содержится в файле "ANSWER.json. Презентация: Василеостровская община.pptx" </h2>
